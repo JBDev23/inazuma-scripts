@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Ruff
+.ruff_cache/
+.ruff.toml
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Ignore Data and Images (Opcional) ---
+# Descomenta las siguientes líneas si prefieres NO subir 
+# los datos descargados o las imágenes al repositorio (GitHub):
+# inazuma-data-extractor/data/
+inazuma-scrapper/sprites_*/
+#inazuma-scrapper/jugadores.txt
+

@@ -1,0 +1,4754 @@
+{
+  "Mark": [
+    {
+      "move": "Fist of Justice",
+      "level": 1
+    },
+    {
+      "move": "God Catch",
+      "level": 25
+    },
+    {
+      "move": "Hammer of Fury",
+      "level": 37
+    },
+    {
+      "move": "Dimensional Hand",
+      "level": 50
+    }
+  ],
+  "Darren": [
+    {
+      "move": "God Hand(W)",
+      "level": 1
+    },
+    {
+      "move": "Majin The Hand(W)",
+      "level": 1
+    },
+    {
+      "move": "Fiend Hand",
+      "level": 1
+    },
+    {
+      "move": "Mugen The Hand",
+      "level": 1
+    }
+  ],
+  "Jack": [
+    {
+      "move": "The Wall",
+      "level": 1
+    },
+    {
+      "move": "Mole Fake",
+      "level": 6
+    },
+    {
+      "move": "Stone Wall",
+      "level": 11
+    },
+    {
+      "move": "The Mountain",
+      "level": 17
+    }
+  ],
+  "Banyan": [
+    {
+      "move": "Whirlwind Force",
+      "level": 1
+    },
+    {
+      "move": "About Face",
+      "level": 1
+    },
+    {
+      "move": "Gale Dash",
+      "level": 11
+    },
+    {
+      "move": "Harvest",
+      "level": 21
+    }
+  ],
+  "Archer": [
+    {
+      "move": "Grenade Shot",
+      "level": 4
+    },
+    {
+      "move": "Dirt Ball",
+      "level": 8
+    },
+    {
+      "move": "Breakthrough",
+      "level": 10
+    },
+    {
+      "move": "Assault Shot",
+      "level": 27
+    }
+  ],
+  "Tod": [
+    {
+      "move": "Deceptor Dribble",
+      "level": 1
+    },
+    {
+      "move": "Comet Shot",
+      "level": 3
+    },
+    {
+      "move": "Defence Plus",
+      "level": 10
+    },
+    {
+      "move": "Circus Block",
+      "level": 21
+    }
+  ],
+  "Nathan": [
+    {
+      "move": "Flurry Dash",
+      "level": 1
+    },
+    {
+      "move": "Wind God’s Dance",
+      "level": 7
+    },
+    {
+      "move": "Whirlwind Drop",
+      "level": 14
+    },
+    {
+      "move": "The Hurricane",
+      "level": 22
+    }
+  ],
+  "Hurley": [
+    {
+      "move": "Everyone Move It!",
+      "level": 1
+    },
+    {
+      "move": "Tsunami Boost",
+      "level": 1
+    },
+    {
+      "move": "The Typhoon",
+      "level": 7
+    },
+    {
+      "move": "Whale Guard",
+      "level": 14
+    }
+  ],
+  "Thor": [
+    {
+      "move": "Big Moves!",
+      "level": 1
+    },
+    {
+      "move": "Thunder Beast",
+      "level": 1
+    },
+    {
+      "move": "Super Sumo Stomp",
+      "level": 1
+    },
+    {
+      "move": "Stone Wall",
+      "level": 12
+    }
+  ],
+  "Jordan": [
+    {
+      "move": "Astro Break",
+      "level": 1
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 19
+    },
+    {
+      "move": "Astro Gate",
+      "level": 10
+    },
+    {
+      "move": "Warp Drive",
+      "level": 2
+    }
+  ],
+  "Caleb": [
+    {
+      "move": "Move It!",
+      "level": 1
+    },
+    {
+      "move": "Triple Boost",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 1
+    },
+    {
+      "move": "Yo-Yo Ball",
+      "level": 17
+    }
+  ],
+  "Jude": [
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Twin Boost",
+      "level": 1
+    },
+    {
+      "move": "Emperor Penguin No. 3",
+      "level": 13
+    },
+    {
+      "move": "Field of Force",
+      "level": 25
+    }
+  ],
+  "Samford": [
+    {
+      "move": "Offence Force",
+      "level": 1
+    },
+    {
+      "move": "Gale Dash",
+      "level": 1
+    },
+    {
+      "move": "Emperor Penguin No. 2",
+      "level": 1
+    },
+    {
+      "move": "Space Penguin",
+      "level": 35
+    }
+  ],
+  "Shawn": [
+    {
+      "move": "Land Of Ice",
+      "level": 1
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 8
+    },
+    {
+      "move": "Eternal Blizzard",
+      "level": 21
+    },
+    {
+      "move": "Frozen Steal",
+      "level": 29
+    }
+  ],
+  "Xavier": [
+    {
+      "move": "Meteor Blade",
+      "level": 1
+    },
+    {
+      "move": "The Dawn",
+      "level": 17
+    },
+    {
+      "move": "Photon Crash",
+      "level": 2
+    },
+    {
+      "move": "Celestial Smash",
+      "level": 20
+    }
+  ],
+  "Kevin": [
+    {
+      "move": "Dragon Crash",
+      "level": 1
+    },
+    {
+      "move": "Dragon Slayer",
+      "level": 5
+    },
+    {
+      "move": "Wyvern Crash",
+      "level": 9
+    },
+    {
+      "move": "Wyvern Blizzard",
+      "level": 16
+    }
+  ],
+  "Austin": [
+    {
+      "move": "Double Touch",
+      "level": 1
+    },
+    {
+      "move": "Gladius Arch",
+      "level": 25
+    },
+    {
+      "move": "Tiger Drive",
+      "level": 37
+    },
+    {
+      "move": "Tiger Storm",
+      "level": 50
+    }
+  ],
+  "Axel": [
+    {
+      "move": "Fire Tornado",
+      "level": 1
+    },
+    {
+      "move": "Fireball Storm",
+      "level": 1
+    },
+    {
+      "move": "Fireball Screw",
+      "level": 25
+    },
+    {
+      "move": "Grand Fire",
+      "level": 50
+    }
+  ],
+  "Whale": [
+    {
+      "move": "Barrier Reef",
+      "level": 1
+    },
+    {
+      "move": "Tsunami Wall",
+      "level": 20
+    },
+    {
+      "move": "Kangaroo Kick",
+      "level": 25
+    },
+    {
+      "move": "Keeper Plus",
+      "level": 32
+    }
+  ],
+  "C-Horse": [
+    {
+      "move": "Barrier Reef",
+      "level": 1
+    },
+    {
+      "move": "Ice Block",
+      "level": 2
+    },
+    {
+      "move": "Freeze Shot",
+      "level": 13
+    },
+    {
+      "move": "Shot Pocket",
+      "level": 19
+    }
+  ],
+  "Barracuda": [
+    {
+      "move": "Gravestone",
+      "level": 2
+    },
+    {
+      "move": "Horn Train",
+      "level": 1
+    },
+    {
+      "move": "Wild Claw",
+      "level": 18
+    },
+    {
+      "move": "Mad Express",
+      "level": 31
+    }
+  ],
+  "Beaches": [
+    {
+      "move": "Spinning Cut",
+      "level": 20
+    },
+    {
+      "move": "Kangaroo Kick",
+      "level": 2
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 26
+    },
+    {
+      "move": "Shine Drive",
+      "level": 18
+    }
+  ],
+  "Water": [
+    {
+      "move": "Sumo Stomp",
+      "level": 1
+    },
+    {
+      "move": "Super Sumo Stomp",
+      "level": 1
+    },
+    {
+      "move": "Racing Flame",
+      "level": 17
+    },
+    {
+      "move": "Mole Fake",
+      "level": 18
+    }
+  ],
+  "Turtle": [
+    {
+      "move": "Gravestone",
+      "level": 1
+    },
+    {
+      "move": "Whale Guard",
+      "level": 2
+    },
+    {
+      "move": "Barrier Reef",
+      "level": 19
+    },
+    {
+      "move": "Power Charge",
+      "level": 34
+    }
+  ],
+  "Kraken": [
+    {
+      "move": "Whale Guard",
+      "level": 1
+    },
+    {
+      "move": "Kangaroo Kick",
+      "level": 1
+    },
+    {
+      "move": "Economy!",
+      "level": 17
+    },
+    {
+      "move": "Barbarian Shield",
+      "level": 36
+    }
+  ],
+  "Dolphin": [
+    {
+      "move": "Megalodon",
+      "level": 1
+    },
+    {
+      "move": "Tsunami Boost",
+      "level": 2
+    },
+    {
+      "move": "Cool Up!",
+      "level": 22
+    },
+    {
+      "move": "Mirage Shot",
+      "level": 31
+    }
+  ],
+  "Prawn": [
+    {
+      "move": "Water Veil",
+      "level": 2
+    },
+    {
+      "move": "Moonsault",
+      "level": 10
+    },
+    {
+      "move": "Gravestone",
+      "level": 18
+    },
+    {
+      "move": "Stone Prison",
+      "level": 30
+    }
+  ],
+  "K-Rab": [
+    {
+      "move": "Mole Fake",
+      "level": 1
+    },
+    {
+      "move": "Gravestone",
+      "level": 2
+    },
+    {
+      "move": "Kung Fu Fighting",
+      "level": 19
+    },
+    {
+      "move": "Power Charge",
+      "level": 35
+    }
+  ],
+  "Hang-Ten": [
+    {
+      "move": "Water Veil",
+      "level": 1
+    },
+    {
+      "move": "Tsunami Boost",
+      "level": 10
+    },
+    {
+      "move": "Moonsault",
+      "level": 16
+    },
+    {
+      "move": "Deceptor Dribble",
+      "level": 23
+    }
+  ],
+  "Fisher": [
+    {
+      "move": "Kangaroo Kick",
+      "level": 1
+    },
+    {
+      "move": "Never Give Up",
+      "level": 11
+    },
+    {
+      "move": "Spider Web",
+      "level": 18
+    },
+    {
+      "move": "Tsunami Boost",
+      "level": 21
+    }
+  ],
+  "Summers": [
+    {
+      "move": "Kangaroo Kick",
+      "level": 1
+    },
+    {
+      "move": "Gale Dash",
+      "level": 18
+    },
+    {
+      "move": "Comet Shot",
+      "level": 22
+    },
+    {
+      "move": "Flame Dance",
+      "level": 28
+    }
+  ],
+  "Reef": [
+    {
+      "move": "Megalodon",
+      "level": 1
+    },
+    {
+      "move": "Moonsault",
+      "level": 1
+    },
+    {
+      "move": "Comet Shot",
+      "level": 15
+    },
+    {
+      "move": "No Element",
+      "level": 28
+    }
+  ],
+  "Jaws": [
+    {
+      "move": "Megalodon",
+      "level": 1
+    },
+    {
+      "move": "Water Veil",
+      "level": 1
+    },
+    {
+      "move": "Ghost Pull",
+      "level": 6
+    },
+    {
+      "move": "Mega Quake",
+      "level": 24
+    }
+  ],
+  "Marlin": [
+    {
+      "move": "Comet Shot",
+      "level": 2
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 1
+    },
+    {
+      "move": "Kangaroo Kick",
+      "level": 11
+    },
+    {
+      "move": "Mirage Shot",
+      "level": 29
+    }
+  ],
+  "Mustafa": [
+    {
+      "move": "Storm Rider",
+      "level": 1
+    },
+    {
+      "move": "Horn Train",
+      "level": 6
+    },
+    {
+      "move": "Lucky!",
+      "level": 17
+    },
+    {
+      "move": "Counter Strike",
+      "level": 24
+    }
+  ],
+  "Hamad": [
+    {
+      "move": "Whirlwind",
+      "level": 10
+    },
+    {
+      "move": "Tornado Catch",
+      "level": 7
+    },
+    {
+      "move": "Storm Rider",
+      "level": 1
+    },
+    {
+      "move": "Power Charge",
+      "level": 29
+    }
+  ],
+  "Kalil": [
+    {
+      "move": "Mirage Shot",
+      "level": 1
+    },
+    {
+      "move": "Bewilder Blast",
+      "level": 1
+    },
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "Defence Force",
+      "level": 1
+    }
+  ],
+  "Wali": [
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "Double Cyclone",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough",
+      "level": 11
+    },
+    {
+      "move": "Cross Drive",
+      "level": 17
+    }
+  ],
+  "Farooq": [
+    {
+      "move": "Bewilder Blast",
+      "level": 1
+    },
+    {
+      "move": "Bewildered",
+      "level": 4
+    },
+    {
+      "move": "Deceptor Dribble",
+      "level": 14
+    },
+    {
+      "move": "Power Charge",
+      "level": 31
+    }
+  ],
+  "Sylla": [
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "The Wall",
+      "level": 8
+    },
+    {
+      "move": "Bewildered",
+      "level": 15
+    },
+    {
+      "move": "Gigant Wall",
+      "level": 27
+    }
+  ],
+  "Ahmed": [
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "Doppelganger",
+      "level": 10
+    },
+    {
+      "move": "Dog Run",
+      "level": 16
+    },
+    {
+      "move": "Fireball Storm",
+      "level": 31
+    }
+  ],
+  "Jibril": [
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "Double Cyclone",
+      "level": 10
+    },
+    {
+      "move": "Breakthrough",
+      "level": 15
+    },
+    {
+      "move": "No Escape",
+      "level": 30
+    }
+  ],
+  "Armand": [
+    {
+      "move": "Dash Storm",
+      "level": 1
+    },
+    {
+      "move": "Bewilder Blast",
+      "level": 1
+    },
+    {
+      "move": "Power Charge",
+      "level": 26
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 32
+    }
+  ],
+  "Sulaiman": [
+    {
+      "move": "Whirlwind Twister",
+      "level": 1
+    },
+    {
+      "move": "Fake Ball",
+      "level": 6
+    },
+    {
+      "move": "Clone Faker",
+      "level": 25
+    },
+    {
+      "move": "Clone Defence",
+      "level": 33
+    }
+  ],
+  "Jasim": [
+    {
+      "move": "Dirt Ball",
+      "level": 10
+    },
+    {
+      "move": "Bewilder Blast",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 21
+    },
+    {
+      "move": "Body Shield",
+      "level": 28
+    }
+  ],
+  "Massoud": [
+    {
+      "move": "Dash Storm",
+      "level": 1
+    },
+    {
+      "move": "Magic",
+      "level": 3
+    },
+    {
+      "move": "Hawk Shot",
+      "level": 14
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 24
+    }
+  ],
+  "Rajab": [
+    {
+      "move": "Bewilder Blast",
+      "level": 1
+    },
+    {
+      "move": "Meteor Attack",
+      "level": 9
+    },
+    {
+      "move": "Patriot Shot",
+      "level": 13
+    },
+    {
+      "move": "Dual Strike",
+      "level": 31
+    }
+  ],
+  "Abdulla": [
+    {
+      "move": "Mirage Shot",
+      "level": 1
+    },
+    {
+      "move": "Desert Blast",
+      "level": 1
+    },
+    {
+      "move": "Dynamite Shot",
+      "level": 10
+    },
+    {
+      "move": "Beast Fang",
+      "level": 26
+    }
+  ],
+  "Siddique": [
+    {
+      "move": "Mirage Shot",
+      "level": 1
+    },
+    {
+      "move": "Dynamite Shot",
+      "level": 4
+    },
+    {
+      "move": "Study",
+      "level": 16
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 28
+    }
+  ],
+  "Majdi": [
+    {
+      "move": "Mirage Shot",
+      "level": 4
+    },
+    {
+      "move": "Power Element",
+      "level": 3
+    },
+    {
+      "move": "Wild Claw",
+      "level": 12
+    },
+    {
+      "move": "Astro Break",
+      "level": 21
+    }
+  ],
+  "Jung-Soo": [
+    {
+      "move": "Nitro Slap",
+      "level": 1
+    },
+    {
+      "move": "Flame Breath",
+      "level": 10
+    },
+    {
+      "move": "Burnout",
+      "level": 10
+    },
+    {
+      "move": "Put Your Back Into It!",
+      "level": 23
+    }
+  ],
+  "Ho": [
+    {
+      "move": "Blazing Knuckle",
+      "level": 12
+    },
+    {
+      "move": "Nitro Slap",
+      "level": 1
+    },
+    {
+      "move": "Burnout",
+      "level": 25
+    },
+    {
+      "move": "Critical!",
+      "level": 18
+    }
+  ],
+  "Hwang": [
+    {
+      "move": "Racing Flame",
+      "level": 5
+    },
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Cyclone",
+      "level": 17
+    },
+    {
+      "move": "Shooting Star",
+      "level": 26
+    }
+  ],
+  "Hong": [
+    {
+      "move": "Racing Flame",
+      "level": 5
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 1
+    },
+    {
+      "move": "Killer Slide",
+      "level": 12
+    },
+    {
+      "move": "Rodeo Clown",
+      "level": 19
+    }
+  ],
+  "Minho": [
+    {
+      "move": "Racing Flame",
+      "level": 5
+    },
+    {
+      "move": "Flame Dance",
+      "level": 1
+    },
+    {
+      "move": "Killer Slide",
+      "level": 2
+    },
+    {
+      "move": "Divine Arrows",
+      "level": 27
+    }
+  ],
+  "Ko": [
+    {
+      "move": "Racing Flame",
+      "level": 1
+    },
+    {
+      "move": "Utter Gutsiness Bat",
+      "level": 8
+    },
+    {
+      "move": "Utter Gutsiness Catch",
+      "level": 11
+    },
+    {
+      "move": "Defence Plus",
+      "level": 21
+    }
+  ],
+  "Seul": [
+    {
+      "move": "Killer Slide",
+      "level": 12
+    },
+    {
+      "move": "Racing Flame",
+      "level": 1
+    },
+    {
+      "move": "Asteroid Belt",
+      "level": 15
+    },
+    {
+      "move": "Power Charge",
+      "level": 33
+    }
+  ],
+  "Choi": [
+    {
+      "move": "Abaddon Drop",
+      "level": 1
+    },
+    {
+      "move": "Dragon Cannon",
+      "level": 10
+    },
+    {
+      "move": "Critical!",
+      "level": 1
+    },
+    {
+      "move": "Land Dragon",
+      "level": 31
+    }
+  ],
+  "Park": [
+    {
+      "move": "Racing Flame",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 10
+    },
+    {
+      "move": "Flame Veil",
+      "level": 1
+    },
+    {
+      "move": "Trickery!",
+      "level": 23
+    }
+  ],
+  "Kim": [
+    {
+      "move": "Abaddon Drop",
+      "level": 1
+    },
+    {
+      "move": "Rolling Hell",
+      "level": 10
+    },
+    {
+      "move": "Flame Veil",
+      "level": 1
+    },
+    {
+      "move": "Slack Off",
+      "level": 1
+    }
+  ],
+  "Yi": [
+    {
+      "move": "Rolling Hell",
+      "level": 12
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 1
+    },
+    {
+      "move": "Spider Web",
+      "level": 12
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 30
+    }
+  ],
+  "Ja": [
+    {
+      "move": "Rolling Hell",
+      "level": 10
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 1
+    },
+    {
+      "move": "Defence Scan",
+      "level": 14
+    },
+    {
+      "move": "Spectacle Crash",
+      "level": 27
+    }
+  ],
+  "Aphrodite": [
+    {
+      "move": "Shot Force",
+      "level": 1
+    },
+    {
+      "move": "God Knows",
+      "level": 1
+    },
+    {
+      "move": "God Break",
+      "level": 25
+    },
+    {
+      "move": "The Ikaros",
+      "level": 33
+    }
+  ],
+  "Torch": [
+    {
+      "move": "Power Element",
+      "level": 1
+    },
+    {
+      "move": "Atomic Flare",
+      "level": 1
+    },
+    {
+      "move": "Dog Run",
+      "level": 17
+    },
+    {
+      "move": "Fire Blizzard(F)",
+      "level": 30
+    }
+  ],
+  "Gazelle": [
+    {
+      "move": "Power Element",
+      "level": 1
+    },
+    {
+      "move": "Northern Impact",
+      "level": 1
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 1
+    },
+    {
+      "move": "Fire Blizzard(F)",
+      "level": 30
+    }
+  ],
+  "Noh": [
+    {
+      "move": "Flame Veil",
+      "level": 1
+    },
+    {
+      "move": "Whirlwind Twister",
+      "level": 6
+    },
+    {
+      "move": "Cool Up!",
+      "level": 21
+    },
+    {
+      "move": "Eagle Buster",
+      "level": 36
+    }
+  ],
+  "McQueen": [
+    {
+      "move": "Galatyn",
+      "level": 1
+    },
+    {
+      "move": "Safety First",
+      "level": 7
+    },
+    {
+      "move": "Invisible Fake",
+      "level": 16
+    },
+    {
+      "move": "Black Hole",
+      "level": 23
+    }
+  ],
+  "Jeeves": [
+    {
+      "move": "Galatyn",
+      "level": 7
+    },
+    {
+      "move": "Killer Blade",
+      "level": 15
+    },
+    {
+      "move": "Drill Smasher",
+      "level": 21
+    },
+    {
+      "move": "Excalibur",
+      "level": 36
+    }
+  ],
+  "Gazzer": [
+    {
+      "move": "Stone Prison",
+      "level": 1
+    },
+    {
+      "move": "No Escape",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 14
+    },
+    {
+      "move": "Fake Ball",
+      "level": 31
+    }
+  ],
+  "Buckingham": [
+    {
+      "move": "Stone Prison",
+      "level": 1
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 8
+    },
+    {
+      "move": "Breakthrough",
+      "level": 17
+    },
+    {
+      "move": "Emperor Penguin No. 2",
+      "level": 28
+    }
+  ],
+  "Lance": [
+    {
+      "move": "Stone Prison",
+      "level": 1
+    },
+    {
+      "move": "Cross Drive",
+      "level": 10
+    },
+    {
+      "move": "Galatyn",
+      "level": 16
+    },
+    {
+      "move": "Excalibur",
+      "level": 30
+    }
+  ],
+  "Ripper": [
+    {
+      "move": "Stone Prison",
+      "level": 5
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 15
+    },
+    {
+      "move": "Killer Blade",
+      "level": 1
+    },
+    {
+      "move": "Vac Attack",
+      "level": 24
+    }
+  ],
+  "Squall": [
+    {
+      "move": "Ultra Moon",
+      "level": 7
+    },
+    {
+      "move": "Dash Accelerator",
+      "level": 3
+    },
+    {
+      "move": "Fake Bomber",
+      "level": 13
+    },
+    {
+      "move": "Unicorn Boost",
+      "level": 34
+    }
+  ],
+  "Cole": [
+    {
+      "move": "Ultra Moon",
+      "level": 1
+    },
+    {
+      "move": "Attack Scan",
+      "level": 8
+    },
+    {
+      "move": "Dynamite Shot",
+      "level": 18
+    },
+    {
+      "move": "Echo Ball",
+      "level": 31
+    }
+  ],
+  "Mane": [
+    {
+      "move": "Ultra Moon",
+      "level": 1
+    },
+    {
+      "move": "Coil Turn",
+      "level": 2
+    },
+    {
+      "move": "Deceptor Dribble",
+      "level": 13
+    },
+    {
+      "move": "Stone Prison",
+      "level": 20
+    }
+  ],
+  "Appleton": [
+    {
+      "move": "Ultra Moon",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Spark",
+      "level": 5
+    },
+    {
+      "move": "Cyclone",
+      "level": 16
+    },
+    {
+      "move": "Echo Ball",
+      "level": 29
+    }
+  ],
+  "Eric": [
+    {
+      "move": "Paladin Strike",
+      "level": 1
+    },
+    {
+      "move": "Snake Shot",
+      "level": 4
+    },
+    {
+      "move": "Reflect Buster",
+      "level": 14
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 24
+    }
+  ],
+  "Pounding": [
+    {
+      "move": "Stone Prison",
+      "level": 1
+    },
+    {
+      "move": "Invisible Fake",
+      "level": 14
+    },
+    {
+      "move": "God Hand(E)",
+      "level": 18
+    },
+    {
+      "move": "Flash Upper",
+      "level": 35
+    }
+  ],
+  "Richards": [
+    {
+      "move": "Ultra Moon",
+      "level": 1
+    },
+    {
+      "move": "Study",
+      "level": 9
+    },
+    {
+      "move": "Shadow Stitch",
+      "level": 22
+    },
+    {
+      "move": "Power Charge",
+      "level": 37
+    }
+  ],
+  "Partinus": [
+    {
+      "move": "Excalibur",
+      "level": 1
+    },
+    {
+      "move": "Paladin Strike",
+      "level": 1
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 1
+    },
+    {
+      "move": "Cool Up!",
+      "level": 29
+    }
+  ],
+  "Owen": [
+    {
+      "move": "Paladin Strike",
+      "level": 1
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 15
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 12
+    },
+    {
+      "move": "Gale Dash",
+      "level": 31
+    }
+  ],
+  "Woodgate": [
+    {
+      "move": "Paladin Strike",
+      "level": 10
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 1
+    },
+    {
+      "move": "Magic",
+      "level": 14
+    },
+    {
+      "move": "Ganymede Ray",
+      "level": 20
+    }
+  ],
+  "Ortega": [
+    {
+      "move": "Million Hands",
+      "level": 1
+    },
+    {
+      "move": "Dog Run",
+      "level": 20
+    },
+    {
+      "move": "Storm Rider",
+      "level": 29
+    },
+    {
+      "move": "Infinite Wall",
+      "level": 32
+    }
+  ],
+  "Cruz": [
+    {
+      "move": "Full Power Shield",
+      "level": 7
+    },
+    {
+      "move": "Power Shield",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Flame",
+      "level": 17
+    },
+    {
+      "move": "Power Charge",
+      "level": 27
+    }
+  ],
+  "Therese": [
+    {
+      "move": "Iron Wall",
+      "level": 10
+    },
+    {
+      "move": "Zigzag Flame",
+      "level": 1
+    },
+    {
+      "move": "Ignite Steal",
+      "level": 30
+    },
+    {
+      "move": "Defence Plus",
+      "level": 1
+    }
+  ],
+  "Acosta": [
+    {
+      "move": "Zigzag Flame",
+      "level": 7
+    },
+    {
+      "move": "Fake Ball",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 18
+    },
+    {
+      "move": "Harvest",
+      "level": 27
+    }
+  ],
+  "Diaz": [
+    {
+      "move": "Zigzag Flame",
+      "level": 7
+    },
+    {
+      "move": "Super Armadillo",
+      "level": 1
+    },
+    {
+      "move": "Rolling Hell",
+      "level": 16
+    },
+    {
+      "move": "Million Hands",
+      "level": 26
+    }
+  ],
+  "Martinez": [
+    {
+      "move": "Circus Block",
+      "level": 1
+    },
+    {
+      "move": "Leaping Thunder",
+      "level": 7
+    },
+    {
+      "move": "Shooting Star",
+      "level": 19
+    },
+    {
+      "move": "Acrobat Bomber",
+      "level": 27
+    }
+  ],
+  "Tevez": [
+    {
+      "move": "Circus Block",
+      "level": 10
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Rocket Kobushi",
+      "level": 18
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 28
+    }
+  ],
+  "Carlos": [
+    {
+      "move": "Dog Run",
+      "level": 1
+    },
+    {
+      "move": "Armadillo Circus",
+      "level": 17
+    },
+    {
+      "move": "Quick Draw",
+      "level": 15
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 20
+    }
+  ],
+  "Sergio": [
+    {
+      "move": "Bubble Gum",
+      "level": 1
+    },
+    {
+      "move": "Afterimage",
+      "level": 14
+    },
+    {
+      "move": "Zigzag Spark",
+      "level": 15
+    },
+    {
+      "move": "Triple Dash",
+      "level": 32
+    }
+  ],
+  "Roberto": [
+    {
+      "move": "Dog Run",
+      "level": 1
+    },
+    {
+      "move": "Double Rocket",
+      "level": 18
+    },
+    {
+      "move": "Cyclone",
+      "level": 15
+    },
+    {
+      "move": "Iron Wall",
+      "level": 26
+    }
+  ],
+  "Castillo": [
+    {
+      "move": "Hawk Shot",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Flame",
+      "level": 7
+    },
+    {
+      "move": "Fireball Head",
+      "level": 1
+    },
+    {
+      "move": "Triangle Z",
+      "level": 29
+    }
+  ],
+  "Samuel": [
+    {
+      "move": "Armadillo Circus",
+      "level": 1
+    },
+    {
+      "move": "Dirt Ball",
+      "level": 16
+    },
+    {
+      "move": "Reflect Buster",
+      "level": 29
+    },
+    {
+      "move": "Dog Run",
+      "level": 33
+    }
+  ],
+  "Leone": [
+    {
+      "move": "Hellfire",
+      "level": 1
+    },
+    {
+      "move": "Eagle Buster",
+      "level": 18
+    },
+    {
+      "move": "Condor Dive",
+      "level": 16
+    },
+    {
+      "move": "Cool Up!",
+      "level": 1
+    }
+  ],
+  "Oro": [
+    {
+      "move": "Hellfire",
+      "level": 1
+    },
+    {
+      "move": "Eagle Buster",
+      "level": 18
+    },
+    {
+      "move": "Big Fan",
+      "level": 14
+    },
+    {
+      "move": "Assault Shot",
+      "level": 23
+    }
+  ],
+  "Saviola": [
+    {
+      "move": "Twin Boost",
+      "level": 6
+    },
+    {
+      "move": "Magic",
+      "level": 1
+    },
+    {
+      "move": "Supreme Spin",
+      "level": 17
+    },
+    {
+      "move": "Land Dragon",
+      "level": 31
+    }
+  ],
+  "Aguero": [
+    {
+      "move": "Eagle Buster",
+      "level": 10
+    },
+    {
+      "move": "Gyro Head",
+      "level": 1
+    },
+    {
+      "move": "Dual Strike",
+      "level": 29
+    },
+    {
+      "move": "Never Give Up",
+      "level": 1
+    }
+  ],
+  "Dash": [
+    {
+      "move": "Flash Upper",
+      "level": 1
+    },
+    {
+      "move": "Economy!",
+      "level": 1
+    },
+    {
+      "move": "Rocket Kobushi",
+      "level": 16
+    },
+    {
+      "move": "Gunshot",
+      "level": 37
+    }
+  ],
+  "Hawke": [
+    {
+      "move": "Counter Strike",
+      "level": 1
+    },
+    {
+      "move": "Hawk Shot",
+      "level": 6
+    },
+    {
+      "move": "Afterimage",
+      "level": 20
+    },
+    {
+      "move": "Eagle Buster",
+      "level": 29
+    }
+  ],
+  "Bryant": [
+    {
+      "move": "Power Charge",
+      "level": 1
+    },
+    {
+      "move": "Quick Draw",
+      "level": 7
+    },
+    {
+      "move": "Moonsault",
+      "level": 18
+    },
+    {
+      "move": "Flame Dance",
+      "level": 27
+    }
+  ],
+  "Strider": [
+    {
+      "move": "Power Charge",
+      "level": 7
+    },
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Patriot Shot",
+      "level": 15
+    },
+    {
+      "move": "Horn Train",
+      "level": 25
+    }
+  ],
+  "Dynamo": [
+    {
+      "move": "Power Charge",
+      "level": 1
+    },
+    {
+      "move": "Flash Upper",
+      "level": 5
+    },
+    {
+      "move": "Mega Quake",
+      "level": 18
+    },
+    {
+      "move": "Fist of Justice",
+      "level": 35
+    }
+  ],
+  "Bobby": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 10
+    },
+    {
+      "move": "Back Tornado",
+      "level": 16
+    },
+    {
+      "move": "The Galaxy",
+      "level": 27
+    }
+  ],
+  "Rob": [
+    {
+      "move": "Blade Attack",
+      "level": 9
+    },
+    {
+      "move": "Acrobat Bomber",
+      "level": 1
+    },
+    {
+      "move": "Power Charge",
+      "level": 16
+    },
+    {
+      "move": "Assault Shot",
+      "level": 27
+    }
+  ],
+  "Bob": [
+    {
+      "move": "Blade Attack",
+      "level": 9
+    },
+    {
+      "move": "Bubble Gum",
+      "level": 1
+    },
+    {
+      "move": "Infinite Wall",
+      "level": 30
+    },
+    {
+      "move": "Slack Off",
+      "level": 1
+    }
+  ],
+  "Woodmark": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 5
+    },
+    {
+      "move": "Twin Boost",
+      "level": 17
+    },
+    {
+      "move": "The Ikaros",
+      "level": 27
+    }
+  ],
+  "Erik": [
+    {
+      "move": "Spinning Shot",
+      "level": 1
+    },
+    {
+      "move": "Moonsault",
+      "level": 9
+    },
+    {
+      "move": "Flame Dance",
+      "level": 15
+    },
+    {
+      "move": "Atomic Flare",
+      "level": 26
+    }
+  ],
+  "Pierce": [
+    {
+      "move": "Zigzag Spark",
+      "level": 1
+    },
+    {
+      "move": "Freeze Shot",
+      "level": 5
+    },
+    {
+      "move": "Pegasus Shot",
+      "level": 32
+    },
+    {
+      "move": "Study",
+      "level": 1
+    }
+  ],
+  "Krueger": [
+    {
+      "move": "Grand Fenrir",
+      "level": 1
+    },
+    {
+      "move": "The Ikaros",
+      "level": 1
+    },
+    {
+      "move": "Tri-Pegasus",
+      "level": 22
+    },
+    {
+      "move": "Offence Force",
+      "level": 1
+    }
+  ],
+  "Pooma": [
+    {
+      "move": "Zigzag Spark",
+      "level": 9
+    },
+    {
+      "move": "Gyro Head",
+      "level": 1
+    },
+    {
+      "move": "Double Cyclone",
+      "level": 17
+    },
+    {
+      "move": "Rodeo Clown",
+      "level": 20
+    }
+  ],
+  "Keats": [
+    {
+      "move": "Unicorn Boost",
+      "level": 1
+    },
+    {
+      "move": "Revolution V",
+      "level": 21
+    },
+    {
+      "move": "Bubble Gum",
+      "level": 7
+    },
+    {
+      "move": "Big Moves!",
+      "level": 25
+    }
+  ],
+  "Jax": [
+    {
+      "move": "Revolution V",
+      "level": 20
+    },
+    {
+      "move": "Tri-Pegasus",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Spark",
+      "level": 1
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 32
+    }
+  ],
+  "Dexter": [
+    {
+      "move": "Spinning Shot",
+      "level": 9
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 1
+    },
+    {
+      "move": "Rolling Hell",
+      "level": 14
+    },
+    {
+      "move": "Shooting Star",
+      "level": 19
+    }
+  ],
+  "Blasi": [
+    {
+      "move": "Colosseum Guard",
+      "level": 1
+    },
+    {
+      "move": "Gigant Wall",
+      "level": 21
+    },
+    {
+      "move": "Earthquake",
+      "level": 16
+    },
+    {
+      "move": "Critical!",
+      "level": 1
+    }
+  ],
+  "Sanctis": [
+    {
+      "move": "Gigant Wall",
+      "level": 1
+    },
+    {
+      "move": "Blazing Knuckle",
+      "level": 1
+    },
+    {
+      "move": "Wood Chopper",
+      "level": 16
+    },
+    {
+      "move": "Colosseum Guard",
+      "level": 31
+    }
+  ],
+  "Galliano": [
+    {
+      "move": "Barbarian Shield",
+      "level": 10
+    },
+    {
+      "move": "Flurry Dash",
+      "level": 1
+    },
+    {
+      "move": "Dash Storm",
+      "level": 26
+    },
+    {
+      "move": "Speed Plus",
+      "level": 31
+    }
+  ],
+  "Nobili": [
+    {
+      "move": "Barbarian Shield",
+      "level": 10
+    },
+    {
+      "move": "Full Power Shield",
+      "level": 1
+    },
+    {
+      "move": "Power Charge",
+      "level": 19
+    },
+    {
+      "move": "Ganymede Ray",
+      "level": 28
+    }
+  ],
+  "Graziuso": [
+    {
+      "move": "Barbarian Shield",
+      "level": 10
+    },
+    {
+      "move": "Double Touch",
+      "level": 1
+    },
+    {
+      "move": "Clone Defence",
+      "level": 20
+    },
+    {
+      "move": "Perimeter Zone",
+      "level": 28
+    }
+  ],
+  "Maserati": [
+    {
+      "move": "Circus Block",
+      "level": 1
+    },
+    {
+      "move": "Moonsault",
+      "level": 1
+    },
+    {
+      "move": "Cool Up!",
+      "level": 17
+    },
+    {
+      "move": "Echo Ball",
+      "level": 28
+    }
+  ],
+  "Carnivale": [
+    {
+      "move": "Circus Block",
+      "level": 1
+    },
+    {
+      "move": "Mole Fake",
+      "level": 1
+    },
+    {
+      "move": "Mole Shuffle",
+      "level": 24
+    },
+    {
+      "move": "Echo Ball",
+      "level": 31
+    }
+  ],
+  "Gabrini": [
+    {
+      "move": "Divine Arrows",
+      "level": 1
+    },
+    {
+      "move": "Photon Crash",
+      "level": 1
+    },
+    {
+      "move": "Shine Drive",
+      "level": 18
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 30
+    }
+  ],
+  "Giorgio": [
+    {
+      "move": "Echo Ball",
+      "level": 7
+    },
+    {
+      "move": "Blade Attack",
+      "level": 1
+    },
+    {
+      "move": "Blazing Knuckle",
+      "level": 16
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 28
+    }
+  ],
+  "Diavolo": [
+    {
+      "move": "Barbarian Shield",
+      "level": 10
+    },
+    {
+      "move": "Echo Ball",
+      "level": 1
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 17
+    },
+    {
+      "move": "Divine Stamp",
+      "level": 27
+    }
+  ],
+  "Zanardi": [
+    {
+      "move": "Echo Ball",
+      "level": 7
+    },
+    {
+      "move": "Heel Kick",
+      "level": 1
+    },
+    {
+      "move": "Triple Boost",
+      "level": 20
+    },
+    {
+      "move": "Water Veil",
+      "level": 32
+    }
+  ],
+  "Enrico": [
+    {
+      "move": "Double Touch",
+      "level": 1
+    },
+    {
+      "move": "Cross Drive",
+      "level": 1
+    },
+    {
+      "move": "Echo Ball",
+      "level": 29
+    },
+    {
+      "move": "Triple Boost",
+      "level": 34
+    }
+  ],
+  "Rossa": [
+    {
+      "move": "Double Touch",
+      "level": 1
+    },
+    {
+      "move": "Rainbow Arc",
+      "level": 1
+    },
+    {
+      "move": "Circus Block",
+      "level": 22
+    },
+    {
+      "move": "Lucky!",
+      "level": 32
+    }
+  ],
+  "Nakata": [
+    {
+      "move": "Big Moves!",
+      "level": 1
+    },
+    {
+      "move": "Super Elastico",
+      "level": 30
+    },
+    {
+      "move": "Brave Shot",
+      "level": 1
+    },
+    {
+      "move": "Circus Block",
+      "level": 10
+    }
+  ],
+  "Bianchi": [
+    {
+      "move": "Odin Sword",
+      "level": 1
+    },
+    {
+      "move": "Divine Arrows",
+      "level": 21
+    },
+    {
+      "move": "Double Touch",
+      "level": 1
+    },
+    {
+      "move": "Cool Up!",
+      "level": 29
+    }
+  ],
+  "Generani": [
+    {
+      "move": "Reflect Buster",
+      "level": 20
+    },
+    {
+      "move": "Freeze Shot",
+      "level": 1
+    },
+    {
+      "move": "Quick Draw",
+      "level": 14
+    },
+    {
+      "move": "Triple Boost",
+      "level": 32
+    }
+  ],
+  "Falcao": [
+    {
+      "move": "Capoeira Grab",
+      "level": 1
+    },
+    {
+      "move": "Wild Claw",
+      "level": 1
+    },
+    {
+      "move": "Tarzan Kick",
+      "level": 16
+    },
+    {
+      "move": "Mole Shuffle",
+      "level": 27
+    }
+  ],
+  "Ribeiro": [
+    {
+      "move": "Clone Block",
+      "level": 1
+    },
+    {
+      "move": "Fireball Head",
+      "level": 1
+    },
+    {
+      "move": "Capoeira Grab",
+      "level": 25
+    },
+    {
+      "move": "Utter Gutsiness Catch",
+      "level": 32
+    }
+  ],
+  "Lagarto": [
+    {
+      "move": "Rolling Slide",
+      "level": 1
+    },
+    {
+      "move": "Moonsault",
+      "level": 1
+    },
+    {
+      "move": "Flame Dance",
+      "level": 17
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 25
+    }
+  ],
+  "Bagre": [
+    {
+      "move": "Dual Storm",
+      "level": 1
+    },
+    {
+      "move": "Acrobat Bomber",
+      "level": 1
+    },
+    {
+      "move": "Harvest",
+      "level": 22
+    },
+    {
+      "move": "Big Moves!",
+      "level": 30
+    }
+  ],
+  "Monstro": [
+    {
+      "move": "Rolling Slide",
+      "level": 1
+    },
+    {
+      "move": "Blade Attack",
+      "level": 1
+    },
+    {
+      "move": "The Wall",
+      "level": 19
+    },
+    {
+      "move": "Table-Turner",
+      "level": 24
+    }
+  ],
+  "Clemens": [
+    {
+      "move": "Three-Legged Rush",
+      "level": 1
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 1
+    },
+    {
+      "move": "Back Tornado",
+      "level": 1
+    },
+    {
+      "move": "Flame Breath",
+      "level": 27
+    }
+  ],
+  "Nogueira": [
+    {
+      "move": "Clone Defence",
+      "level": 1
+    },
+    {
+      "move": "Defence Scan",
+      "level": 1
+    },
+    {
+      "move": "Triple Defence",
+      "level": 25
+    },
+    {
+      "move": "Security Shot",
+      "level": 26
+    }
+  ],
+  "Oliveira": [
+    {
+      "move": "Clone Defence",
+      "level": 1
+    },
+    {
+      "move": "Photon Crash",
+      "level": 1
+    },
+    {
+      "move": "Rolling Slide",
+      "level": 19
+    },
+    {
+      "move": "Divine Stamp",
+      "level": 26
+    }
+  ],
+  "Passos": [
+    {
+      "move": "Rolling Slide",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Spark",
+      "level": 1
+    },
+    {
+      "move": "Wind God’s Dance",
+      "level": 28
+    },
+    {
+      "move": "Economy!",
+      "level": 1
+    }
+  ],
+  "Barboza": [
+    {
+      "move": "Shine Drive",
+      "level": 1
+    },
+    {
+      "move": "Invisible Fake",
+      "level": 1
+    },
+    {
+      "move": "Big Fan",
+      "level": 19
+    },
+    {
+      "move": "Steeple Shot",
+      "level": 26
+    }
+  ],
+  "Cerezo": [
+    {
+      "move": "Shine Drive",
+      "level": 1
+    },
+    {
+      "move": "Super Elastico",
+      "level": 1
+    },
+    {
+      "move": "Dash Accelerator",
+      "level": 1
+    },
+    {
+      "move": "Run Ball Run",
+      "level": 25
+    }
+  ],
+  "Almeida": [
+    {
+      "move": "Double Tornado",
+      "level": 1
+    },
+    {
+      "move": "Super Elastico",
+      "level": 1
+    },
+    {
+      "move": "Southern Cross",
+      "level": 26
+    },
+    {
+      "move": "Cool Up!",
+      "level": 1
+    }
+  ],
+  "Mendes": [
+    {
+      "move": "Double Tornado",
+      "level": 1
+    },
+    {
+      "move": "Three-Legged Rush",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 22
+    },
+    {
+      "move": "Move It!",
+      "level": 1
+    }
+  ],
+  "Robingo": [
+    {
+      "move": "Samba Strike",
+      "level": 1
+    },
+    {
+      "move": "Super Elastico",
+      "level": 1
+    },
+    {
+      "move": "Spinning Shot",
+      "level": 20
+    },
+    {
+      "move": "Power Element",
+      "level": 27
+    }
+  ],
+  "Gato": [
+    {
+      "move": "Shine Drive",
+      "level": 1
+    },
+    {
+      "move": "Fireball Head",
+      "level": 1
+    },
+    {
+      "move": "Whirlwind Cut",
+      "level": 19
+    },
+    {
+      "move": "Samba Strike",
+      "level": 32
+    }
+  ],
+  "Santos": [
+    {
+      "move": "Shine Drive",
+      "level": 1
+    },
+    {
+      "move": "Gyro Head",
+      "level": 1
+    },
+    {
+      "move": "Bubble Gum",
+      "level": 19
+    },
+    {
+      "move": "Super Elastico",
+      "level": 30
+    }
+  ],
+  "Helio": [
+    {
+      "move": "Soul Hand",
+      "level": 5
+    },
+    {
+      "move": "God Hand X",
+      "level": 7
+    },
+    {
+      "move": "Blade Attack",
+      "level": 25
+    },
+    {
+      "move": "X-Blast",
+      "level": 10
+    }
+  ],
+  "Keenan": [
+    {
+      "move": "Phantom Shot",
+      "level": 8
+    },
+    {
+      "move": "Trickery!",
+      "level": 12
+    },
+    {
+      "move": "Dark Tornado",
+      "level": 15
+    },
+    {
+      "move": "Reflect Buster",
+      "level": 21
+    }
+  ],
+  "Vitesse": [
+    {
+      "move": "Air Ride",
+      "level": 12
+    },
+    {
+      "move": "Clone Faker",
+      "level": 5
+    },
+    {
+      "move": "Clone Defence",
+      "level": 1
+    },
+    {
+      "move": "The Hurricane",
+      "level": 27
+    }
+  ],
+  "Mountain": [
+    {
+      "move": "Ground Quake",
+      "level": 12
+    },
+    {
+      "move": "Super Armadillo",
+      "level": 5
+    },
+    {
+      "move": "Mole Shuffle",
+      "level": 1
+    },
+    {
+      "move": "The Mountain",
+      "level": 29
+    }
+  ],
+  "Gaines": [
+    {
+      "move": "Shadow Stitch",
+      "level": 1
+    },
+    {
+      "move": "Double Cyclone",
+      "level": 5
+    },
+    {
+      "move": "Invisible Fake",
+      "level": 1
+    },
+    {
+      "move": "No Element",
+      "level": 32
+    }
+  ],
+  "Ferrum": [
+    {
+      "move": "Deceptor Dribble",
+      "level": 1
+    },
+    {
+      "move": "Rainbow Arc",
+      "level": 5
+    },
+    {
+      "move": "Lucky!",
+      "level": 1
+    },
+    {
+      "move": "Flame Dance",
+      "level": 26
+    }
+  ],
+  "Mangrove": [
+    {
+      "move": "Whirlwind Force",
+      "level": 1
+    },
+    {
+      "move": "Spinning Shot",
+      "level": 10
+    },
+    {
+      "move": "Capoeira Grab",
+      "level": 29
+    },
+    {
+      "move": "Lucky!",
+      "level": 29
+    }
+  ],
+  "Hampton": [
+    {
+      "move": "Lightning Sprint",
+      "level": 1
+    },
+    {
+      "move": "Shooting Star",
+      "level": 5
+    },
+    {
+      "move": "Dash Storm",
+      "level": 10
+    },
+    {
+      "move": "Triple Defence",
+      "level": 25
+    }
+  ],
+  "Haddad": [
+    {
+      "move": "Armadillo Circus",
+      "level": 1
+    },
+    {
+      "move": "Gyro Head",
+      "level": 5
+    },
+    {
+      "move": "Kung Fu Fighting",
+      "level": 12
+    },
+    {
+      "move": "Dual Strike",
+      "level": 26
+    }
+  ],
+  "Ryan": [
+    {
+      "move": "Double Grenade",
+      "level": 1
+    },
+    {
+      "move": "Everyone Move It!",
+      "level": 1
+    },
+    {
+      "move": "Fake Bomber",
+      "level": 7
+    },
+    {
+      "move": "Leaping Thunder",
+      "level": 26
+    }
+  ],
+  "Maximino": [
+    {
+      "move": "Air Ride",
+      "level": 12
+    },
+    {
+      "move": "Speed Force",
+      "level": 1
+    },
+    {
+      "move": "Gaia Break",
+      "level": 1
+    },
+    {
+      "move": "Study",
+      "level": 32
+    }
+  ],
+  "Vitrum": [
+    {
+      "move": "Fake Ball",
+      "level": 1
+    },
+    {
+      "move": "Meteor Shower",
+      "level": 9
+    },
+    {
+      "move": "God Knows",
+      "level": 27
+    },
+    {
+      "move": "Spectacle Crash",
+      "level": 32
+    }
+  ],
+  "Leung": [
+    {
+      "move": "Eternal Blizzard",
+      "level": 1
+    },
+    {
+      "move": "Zigzag Spark",
+      "level": 10
+    },
+    {
+      "move": "Wind God’s Dance",
+      "level": 29
+    },
+    {
+      "move": "Whale Guard",
+      "level": 31
+    }
+  ],
+  "Hedgeer": [
+    {
+      "move": "Tsunami Boost",
+      "level": 1
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 10
+    },
+    {
+      "move": "Water Veil",
+      "level": 30
+    },
+    {
+      "move": "Everyone Move It!",
+      "level": 1
+    }
+  ],
+  "Flare": [
+    {
+      "move": "Fire Tornado",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 14
+    },
+    {
+      "move": "Flame Dance",
+      "level": 10
+    },
+    {
+      "move": "Fireball Screw",
+      "level": 32
+    }
+  ],
+  "Drago": [
+    {
+      "move": "Dragon Crash",
+      "level": 25
+    },
+    {
+      "move": "Air Ride",
+      "level": 12
+    },
+    {
+      "move": "Double Jaw",
+      "level": 5
+    },
+    {
+      "move": "Put Your Back Into It!",
+      "level": 32
+    }
+  ],
+  "Lazuli": [
+    {
+      "move": "Full Power Shield",
+      "level": 1
+    },
+    {
+      "move": "Wormhole",
+      "level": 12
+    },
+    {
+      "move": "Road Roller",
+      "level": 25
+    },
+    {
+      "move": "Fist of Justice",
+      "level": 32
+    }
+  ],
+  "Quarzo": [
+    {
+      "move": "Power Shield",
+      "level": 1
+    },
+    {
+      "move": "Gigant Wall",
+      "level": 20
+    },
+    {
+      "move": "Rainbow Arc",
+      "level": 20
+    },
+    {
+      "move": "Ghost Pull",
+      "level": 27
+    }
+  ],
+  "Diamante": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Harvest",
+      "level": 7
+    },
+    {
+      "move": "Shadow Stitch",
+      "level": 15
+    },
+    {
+      "move": "Field of Force",
+      "level": 34
+    }
+  ],
+  "Turchese": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Gravitation",
+      "level": 10
+    },
+    {
+      "move": "Sliding Goal",
+      "level": 16
+    },
+    {
+      "move": "Planet Shield",
+      "level": 25
+    }
+  ],
+  "Agata": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Spider Web",
+      "level": 7
+    },
+    {
+      "move": "Triple Boost",
+      "level": 29
+    },
+    {
+      "move": "Giant Spider",
+      "level": 34
+    }
+  ],
+  "Zaffiro": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Whirlwind Cut",
+      "level": 7
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 32
+    },
+    {
+      "move": "Never Give Up",
+      "level": 1
+    }
+  ],
+  "Berillo": [
+    {
+      "move": "Harvest",
+      "level": 10
+    },
+    {
+      "move": "Spiral Shot",
+      "level": 1
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 22
+    },
+    {
+      "move": "Counter Strike",
+      "level": 25
+    }
+  ],
+  "Smeraldo": [
+    {
+      "move": "Breakthrough",
+      "level": 1
+    },
+    {
+      "move": "Clone Defence",
+      "level": 10
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 15
+    },
+    {
+      "move": "No Element",
+      "level": 1
+    }
+  ],
+  "Granato": [
+    {
+      "move": "Breakthrough 2",
+      "level": 1
+    },
+    {
+      "move": "Emperor Penguin No. 2",
+      "level": 15
+    },
+    {
+      "move": "Divine Stamp",
+      "level": 19
+    },
+    {
+      "move": "Bamboo Pattern",
+      "level": 22
+    }
+  ],
+  "Topazio": [
+    {
+      "move": "Breakthrough 2",
+      "level": 1
+    },
+    {
+      "move": "Fire Tornado",
+      "level": 1
+    },
+    {
+      "move": "Triangle Z",
+      "level": 20
+    },
+    {
+      "move": "Asteroid Belt",
+      "level": 22
+    }
+  ],
+  "Corniola": [
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Megaton Head",
+      "level": 16
+    },
+    {
+      "move": "Afterimage",
+      "level": 17
+    },
+    {
+      "move": "Perimeter Zone",
+      "level": 19
+    }
+  ],
+  "Rubino": [
+    {
+      "move": "Breakthrough 2",
+      "level": 7
+    },
+    {
+      "move": "Double Grenade",
+      "level": 1
+    },
+    {
+      "move": "Rolling Kick",
+      "level": 16
+    },
+    {
+      "move": "Twin Boost F",
+      "level": 25
+    }
+  ],
+  "Acuto": [
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Twin Boost",
+      "level": 7
+    },
+    {
+      "move": "Inazuma Break",
+      "level": 10
+    },
+    {
+      "move": "Emperor Penguin X",
+      "level": 1
+    }
+  ],
+  "Ametista": [
+    {
+      "move": "Death Zone",
+      "level": 10
+    },
+    {
+      "move": "Meteor Shower",
+      "level": 1
+    },
+    {
+      "move": "Double Wrath Shot",
+      "level": 21
+    },
+    {
+      "move": "Jinx",
+      "level": 1
+    }
+  ],
+  "Perla": [
+    {
+      "move": "Twin Boost F",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough",
+      "level": 7
+    },
+    {
+      "move": "Clone Faker",
+      "level": 17
+    },
+    {
+      "move": "Emperor Penguin No. 2",
+      "level": 21
+    }
+  ],
+  "Opale": [
+    {
+      "move": "Twin Boost F",
+      "level": 10
+    },
+    {
+      "move": "Dash Storm",
+      "level": 1
+    },
+    {
+      "move": "Ganymede Ray",
+      "level": 23
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 29
+    }
+  ],
+  "Civet": [
+    {
+      "move": "Giant Spider",
+      "level": 1
+    },
+    {
+      "move": "Killer Blade",
+      "level": 22
+    },
+    {
+      "move": "Meteor Shower",
+      "level": 22
+    },
+    {
+      "move": "Keeper Plus",
+      "level": 1
+    }
+  ],
+  "Bear": [
+    {
+      "move": "Giant Spider",
+      "level": 15
+    },
+    {
+      "move": "Killer Slide",
+      "level": 1
+    },
+    {
+      "move": "Swan Dive",
+      "level": 15
+    },
+    {
+      "move": "Planet Shield",
+      "level": 30
+    }
+  ],
+  "Jackal": [
+    {
+      "move": "Breakthrough 2",
+      "level": 1
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 5
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 15
+    },
+    {
+      "move": "Shadow Stitch",
+      "level": 22
+    }
+  ],
+  "Minion": [
+    {
+      "move": "Breakthrough 3",
+      "level": 1
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 5
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 25
+    },
+    {
+      "move": "Trickery!",
+      "level": 1
+    }
+  ],
+  "Buffalo": [
+    {
+      "move": "Breakthrough 2",
+      "level": 1
+    },
+    {
+      "move": "Road Roller",
+      "level": 10
+    },
+    {
+      "move": "Giant Spider",
+      "level": 29
+    },
+    {
+      "move": "Recovery",
+      "level": 1
+    }
+  ],
+  "Dingo": [
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Asteroid Belt",
+      "level": 15
+    },
+    {
+      "move": "Aikido",
+      "level": 22
+    },
+    {
+      "move": "Three-Legged Rush",
+      "level": 32
+    }
+  ],
+  "Spider": [
+    {
+      "move": "Giant Spider",
+      "level": 15
+    },
+    {
+      "move": "Ghost Pull",
+      "level": 1
+    },
+    {
+      "move": "Spider Web",
+      "level": 1
+    },
+    {
+      "move": "Gravitation",
+      "level": 20
+    }
+  ],
+  "Bfly": [
+    {
+      "move": "Diabolical Cut",
+      "level": 5
+    },
+    {
+      "move": "Psycho Shot",
+      "level": 1
+    },
+    {
+      "move": "Asteroid Belt",
+      "level": 22
+    },
+    {
+      "move": "Ice Block",
+      "level": 31
+    }
+  ],
+  "Owl": [
+    {
+      "move": "Breakthrough 3",
+      "level": 10
+    },
+    {
+      "move": "Hawk Shot",
+      "level": 1
+    },
+    {
+      "move": "Meteor Shower",
+      "level": 22
+    },
+    {
+      "move": "Shooting Star",
+      "level": 27
+    }
+  ],
+  "Hedgehog": [
+    {
+      "move": "Dark Whirlwind",
+      "level": 1
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 10
+    },
+    {
+      "move": "Toughness Block",
+      "level": 1
+    },
+    {
+      "move": "Body Shield",
+      "level": 1
+    }
+  ],
+  "Mantis": [
+    {
+      "move": "Breakthrough 2",
+      "level": 10
+    },
+    {
+      "move": "Gravitation",
+      "level": 1
+    },
+    {
+      "move": "Temporal Wall",
+      "level": 34
+    },
+    {
+      "move": "Critical!",
+      "level": 29
+    }
+  ],
+  "Crow": [
+    {
+      "move": "Diabolical Cut",
+      "level": 1
+    },
+    {
+      "move": "Death Zone",
+      "level": 10
+    },
+    {
+      "move": "Rolling Hell",
+      "level": 22
+    },
+    {
+      "move": "Emperor Penguin X",
+      "level": 32
+    }
+  ],
+  "Zebra": [
+    {
+      "move": "Breakthrough 3",
+      "level": 12
+    },
+    {
+      "move": "Doppelganger",
+      "level": 1
+    },
+    {
+      "move": "Teleport Shot",
+      "level": 17
+    },
+    {
+      "move": "Rolling Hell",
+      "level": 25
+    }
+  ],
+  "Coyote": [
+    {
+      "move": "Dark Tornado",
+      "level": 12
+    },
+    {
+      "move": "Poison Fog",
+      "level": 1
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 25
+    },
+    {
+      "move": "Shoot Plus",
+      "level": 1
+    }
+  ],
+  "Scorpio": [
+    {
+      "move": "Dark Phoenix",
+      "level": 17
+    },
+    {
+      "move": "Dash Storm",
+      "level": 1
+    },
+    {
+      "move": "Clone Faker",
+      "level": 22
+    },
+    {
+      "move": "Ganymede Ray",
+      "level": 29
+    }
+  ],
+  "Gator": [
+    {
+      "move": "Dark Tornado",
+      "level": 12
+    },
+    {
+      "move": "Warp Drive",
+      "level": 1
+    },
+    {
+      "move": "Desert Blast",
+      "level": 19
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 21
+    }
+  ],
+  "Sanchez": [
+    {
+      "move": "Drill Smasher",
+      "level": 30
+    },
+    {
+      "move": "The Stinger",
+      "level": 10
+    },
+    {
+      "move": "Horn Train",
+      "level": 6
+    },
+    {
+      "move": "Fireball Head",
+      "level": 22
+    }
+  ],
+  "Espindola": [
+    {
+      "move": "Flash Upper",
+      "level": 1
+    },
+    {
+      "move": "Matador Feint",
+      "level": 12
+    },
+    {
+      "move": "Rocket Kobushi",
+      "level": 17
+    },
+    {
+      "move": "Burnout",
+      "level": 28
+    }
+  ],
+  "Naval": [
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Matador Feint",
+      "level": 14
+    },
+    {
+      "move": "Slingshot",
+      "level": 18
+    },
+    {
+      "move": "Never Give Up",
+      "level": 25
+    }
+  ],
+  "Costa": [
+    {
+      "move": "Clone Faker",
+      "level": 1
+    },
+    {
+      "move": "Slingshot",
+      "level": 1
+    },
+    {
+      "move": "Gravestone",
+      "level": 14
+    },
+    {
+      "move": "Spinning Cut",
+      "level": 24
+    }
+  ],
+  "Lopez": [
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Flame Dance",
+      "level": 8
+    },
+    {
+      "move": "Super Elastico",
+      "level": 25
+    },
+    {
+      "move": "Defence Force",
+      "level": 31
+    }
+  ],
+  "Gallego": [
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Million Hands",
+      "level": 15
+    },
+    {
+      "move": "About Face",
+      "level": 19
+    },
+    {
+      "move": "Barbarian Shield",
+      "level": 28
+    }
+  ],
+  "Castor": [
+    {
+      "move": "Volcano Cut",
+      "level": 4
+    },
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Giant Spider",
+      "level": 24
+    },
+    {
+      "move": "Dash Accelerator",
+      "level": 27
+    }
+  ],
+  "Nadal": [
+    {
+      "move": "Spinning Cut",
+      "level": 1
+    },
+    {
+      "move": "Sub-Terfuge",
+      "level": 30
+    },
+    {
+      "move": "Volcano Cut",
+      "level": 20
+    },
+    {
+      "move": "Clone Defence",
+      "level": 31
+    }
+  ],
+  "Ferreira": [
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Dual Pass",
+      "level": 13
+    },
+    {
+      "move": "Bubble Gum",
+      "level": 17
+    },
+    {
+      "move": "Shine Drive",
+      "level": 24
+    }
+  ],
+  "Pereira": [
+    {
+      "move": "Slingshot",
+      "level": 1
+    },
+    {
+      "move": "Sub-Terfuge",
+      "level": 30
+    },
+    {
+      "move": "Clone Faker",
+      "level": 21
+    },
+    {
+      "move": "Study",
+      "level": 23
+    }
+  ],
+  "Moreno": [
+    {
+      "move": "Matador Feint",
+      "level": 1
+    },
+    {
+      "move": "Slingshot",
+      "level": 7
+    },
+    {
+      "move": "Am-Bush",
+      "level": 30
+    },
+    {
+      "move": "Liar Shot",
+      "level": 35
+    }
+  ],
+  "Arroyo": [
+    {
+      "move": "Perimeter Zone",
+      "level": 6
+    },
+    {
+      "move": "Flame Veil",
+      "level": 16
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 21
+    },
+    {
+      "move": "Iron Wall",
+      "level": 25
+    }
+  ],
+  "Mayo": [
+    {
+      "move": "Slingshot",
+      "level": 15
+    },
+    {
+      "move": "Matador Feint",
+      "level": 15
+    },
+    {
+      "move": "Land Dragon",
+      "level": 24
+    },
+    {
+      "move": "Odin Sword",
+      "level": 33
+    }
+  ],
+  "Peroque": [
+    {
+      "move": "Slingshot",
+      "level": 20
+    },
+    {
+      "move": "Twin Boost",
+      "level": 30
+    },
+    {
+      "move": "Matador Feint",
+      "level": 23
+    },
+    {
+      "move": "Critical!",
+      "level": 26
+    }
+  ],
+  "Cesar": [
+    {
+      "move": "Slingshot",
+      "level": 7
+    },
+    {
+      "move": "Fire Tornado",
+      "level": 5
+    },
+    {
+      "move": "Super Elastico",
+      "level": 23
+    },
+    {
+      "move": "Assault Shot",
+      "level": 27
+    }
+  ],
+  "Rubiera": [
+    {
+      "move": "Slingshot",
+      "level": 7
+    },
+    {
+      "move": "Yo-Yo Ball",
+      "level": 5
+    },
+    {
+      "move": "Everyone Move It!",
+      "level": 19
+    },
+    {
+      "move": "Super Elastico",
+      "level": 32
+    }
+  ],
+  "Pialat": [
+    {
+      "move": "The Stinger",
+      "level": 1
+    },
+    {
+      "move": "Galatyn",
+      "level": 27
+    },
+    {
+      "move": "God Catch",
+      "level": 30
+    },
+    {
+      "move": "Keeper Plus",
+      "level": 30
+    }
+  ],
+  "Lazare": [
+    {
+      "move": "The Stinger",
+      "level": 10
+    },
+    {
+      "move": "Shot Pocket",
+      "level": 27
+    },
+    {
+      "move": "Hammer of Fury",
+      "level": 21
+    },
+    {
+      "move": "Bed Of Roses",
+      "level": 26
+    }
+  ],
+  "Godin": [
+    {
+      "move": "Bed Of Roses",
+      "level": 1
+    },
+    {
+      "move": "Flame Dance",
+      "level": 8
+    },
+    {
+      "move": "Photon Crash",
+      "level": 12
+    },
+    {
+      "move": "Triangle Z",
+      "level": 31
+    }
+  ],
+  "Aron": [
+    {
+      "move": "Magic",
+      "level": 1
+    },
+    {
+      "move": "Snow Angel",
+      "level": 4
+    },
+    {
+      "move": "Racing Flame",
+      "level": 11
+    },
+    {
+      "move": "Armadillo Circus",
+      "level": 28
+    }
+  ],
+  "Poujol": [
+    {
+      "move": "The Wall",
+      "level": 1
+    },
+    {
+      "move": "Mega Quake",
+      "level": 6
+    },
+    {
+      "move": "Full Power Shield",
+      "level": 13
+    },
+    {
+      "move": "Iron Wall",
+      "level": 26
+    }
+  ],
+  "Pinot": [
+    {
+      "move": "Lightning Sprint",
+      "level": 1
+    },
+    {
+      "move": "Tiger Drive",
+      "level": 9
+    },
+    {
+      "move": "Zigzag Flame",
+      "level": 16
+    },
+    {
+      "move": "Trickery!",
+      "level": 27
+    }
+  ],
+  "Pinson": [
+    {
+      "move": "Divine Stamp",
+      "level": 3
+    },
+    {
+      "move": "Flame Dance",
+      "level": 8
+    },
+    {
+      "move": "Afterimage",
+      "level": 14
+    },
+    {
+      "move": "Black Hole",
+      "level": 23
+    }
+  ],
+  "Gutain": [
+    {
+      "move": "Fake Bomber",
+      "level": 1
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 24
+    },
+    {
+      "move": "Everyone Move It!",
+      "level": 32
+    }
+  ],
+  "Porec": [
+    {
+      "move": "Invisible Fake",
+      "level": 3
+    },
+    {
+      "move": "Dog Run",
+      "level": 10
+    },
+    {
+      "move": "Gravitation",
+      "level": 14
+    },
+    {
+      "move": "Triple Boost",
+      "level": 34
+    }
+  ],
+  "Huysmans": [
+    {
+      "move": "Paladin Strike",
+      "level": 10
+    },
+    {
+      "move": "Tri-Pegasus",
+      "level": 27
+    },
+    {
+      "move": "Photon Crash",
+      "level": 14
+    },
+    {
+      "move": "Cool Up!",
+      "level": 26
+    }
+  ],
+  "Hinault": [
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Bed Of Roses",
+      "level": 5
+    },
+    {
+      "move": "Mirage Shot",
+      "level": 11
+    },
+    {
+      "move": "Echo Ball",
+      "level": 29
+    }
+  ],
+  "Rousseau": [
+    {
+      "move": "Bed Of Roses",
+      "level": 1
+    },
+    {
+      "move": "Photon Crash",
+      "level": 4
+    },
+    {
+      "move": "Tri-Pegasus",
+      "level": 26
+    },
+    {
+      "move": "Cool Up!",
+      "level": 32
+    }
+  ],
+  "Moreau": [
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Moonsault",
+      "level": 6
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 17
+    },
+    {
+      "move": "Offence Plus",
+      "level": 26
+    }
+  ],
+  "Hervaud": [
+    {
+      "move": "Slingshot",
+      "level": 10
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 1
+    },
+    {
+      "move": "Double Jaw",
+      "level": 30
+    },
+    {
+      "move": "Speed Plus",
+      "level": 33
+    }
+  ],
+  "Favreau": [
+    {
+      "move": "Land Dragon",
+      "level": 1
+    },
+    {
+      "move": "Cyclone",
+      "level": 1
+    },
+    {
+      "move": "Dog Run",
+      "level": 16
+    },
+    {
+      "move": "Tri-Pegasus",
+      "level": 29
+    }
+  ],
+  "Morland": [
+    {
+      "move": "Land Of Ice",
+      "level": 1
+    },
+    {
+      "move": "Reflect Buster",
+      "level": 10
+    },
+    {
+      "move": "Astro Gate",
+      "level": 17
+    },
+    {
+      "move": "Galatyn",
+      "level": 23
+    }
+  ],
+  "Baloi": [
+    {
+      "move": "Capoeira Grab",
+      "level": 1
+    },
+    {
+      "move": "Blazing Knuckle",
+      "level": 4
+    },
+    {
+      "move": "Power Charge",
+      "level": 18
+    },
+    {
+      "move": "Keeper Plus",
+      "level": 26
+    }
+  ],
+  "Makebe": [
+    {
+      "move": "Capoeira Grab",
+      "level": 5
+    },
+    {
+      "move": "Wild Claw",
+      "level": 1
+    },
+    {
+      "move": "Giant Spider",
+      "level": 19
+    },
+    {
+      "move": "Power Charge",
+      "level": 23
+    }
+  ],
+  "Furman": [
+    {
+      "move": "Rolling Slide",
+      "level": 1
+    },
+    {
+      "move": "Flame Dance",
+      "level": 6
+    },
+    {
+      "move": "Liar Shot",
+      "level": 21
+    },
+    {
+      "move": "Samba Strike",
+      "level": 29
+    }
+  ],
+  "Fana": [
+    {
+      "move": "Rolling Slide",
+      "level": 2
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 8
+    },
+    {
+      "move": "Full Power Shield",
+      "level": 15
+    },
+    {
+      "move": "Lucky!",
+      "level": 29
+    }
+  ],
+  "Molelo": [
+    {
+      "move": "Heavy Mettle",
+      "level": 1
+    },
+    {
+      "move": "Gale Dash",
+      "level": 10
+    },
+    {
+      "move": "Liar Shot",
+      "level": 23
+    },
+    {
+      "move": "Study",
+      "level": 28
+    }
+  ],
+  "Tobler": [
+    {
+      "move": "Spider Web",
+      "level": 1
+    },
+    {
+      "move": "Horn Train",
+      "level": 1
+    },
+    {
+      "move": "Fireball Screw",
+      "level": 24
+    },
+    {
+      "move": "Beast Fang",
+      "level": 27
+    }
+  ],
+  "Booysen": [
+    {
+      "move": "Am-Bush",
+      "level": 5
+    },
+    {
+      "move": "Rolling Slide",
+      "level": 8
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 17
+    },
+    {
+      "move": "Critical!",
+      "level": 26
+    }
+  ],
+  "McCarthy": [
+    {
+      "move": "Liar Shot",
+      "level": 4
+    },
+    {
+      "move": "Super Armadillo",
+      "level": 4
+    },
+    {
+      "move": "Zigzag Flame",
+      "level": 15
+    },
+    {
+      "move": "Am-Bush",
+      "level": 30
+    }
+  ],
+  "Marunga": [
+    {
+      "move": "Liar Shot",
+      "level": 3
+    },
+    {
+      "move": "Abaddon Drop",
+      "level": 13
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 18
+    },
+    {
+      "move": "Wind God’s Dance",
+      "level": 26
+    }
+  ],
+  "Nortje": [
+    {
+      "move": "Super Armadillo",
+      "level": 1
+    },
+    {
+      "move": "Power Charge",
+      "level": 8
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 12
+    },
+    {
+      "move": "Mad Express",
+      "level": 24
+    }
+  ],
+  "Ines": [
+    {
+      "move": "Kangaroo Kick",
+      "level": 1
+    },
+    {
+      "move": "Deceptor Dribble",
+      "level": 9
+    },
+    {
+      "move": "Stone Prison",
+      "level": 16
+    },
+    {
+      "move": "Whirlwind Force",
+      "level": 23
+    }
+  ],
+  "Mahlangu": [
+    {
+      "move": "Heat Tackle",
+      "level": 1
+    },
+    {
+      "move": "Tsunami Boost",
+      "level": 13
+    },
+    {
+      "move": "Rolling Slide",
+      "level": 19
+    },
+    {
+      "move": "Sub-Terfuge",
+      "level": 30
+    }
+  ],
+  "Sepeng": [
+    {
+      "move": "Flame Dance",
+      "level": 1
+    },
+    {
+      "move": "Liar Shot",
+      "level": 8
+    },
+    {
+      "move": "Kangaroo Kick",
+      "level": 13
+    },
+    {
+      "move": "Divine Stamp",
+      "level": 21
+    }
+  ],
+  "Tswane": [
+    {
+      "move": "Liar Shot",
+      "level": 1
+    },
+    {
+      "move": "Lightning Sprint",
+      "level": 14
+    },
+    {
+      "move": "Whirlwind Force",
+      "level": 20
+    },
+    {
+      "move": "Speed Plus",
+      "level": 27
+    }
+  ],
+  "Zamani": [
+    {
+      "move": "Liar Shot",
+      "level": 1
+    },
+    {
+      "move": "Heat Tackle",
+      "level": 8
+    },
+    {
+      "move": "Fireball Screw",
+      "level": 22
+    },
+    {
+      "move": "Breakthrough",
+      "level": 26
+    }
+  ],
+  "De-Villiers": [
+    {
+      "move": "Liar Shot",
+      "level": 3
+    },
+    {
+      "move": "Hellfire",
+      "level": 19
+    },
+    {
+      "move": "Gale Dash",
+      "level": 23
+    },
+    {
+      "move": "Shoot Plus",
+      "level": 30
+    }
+  ],
+  "Anorel": [
+    {
+      "move": "Celestial Zone",
+      "level": 1
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 1
+    },
+    {
+      "move": "Land Of Ice",
+      "level": 24
+    },
+    {
+      "move": "God Catch",
+      "level": 36
+    }
+  ],
+  "Nenel": [
+    {
+      "move": "Heaven’s Ascent",
+      "level": 1
+    },
+    {
+      "move": "Angel Ball",
+      "level": 21
+    },
+    {
+      "move": "Illusion Ball",
+      "level": 25
+    },
+    {
+      "move": "Speed Force",
+      "level": 33
+    }
+  ],
+  "Genel": [
+    {
+      "move": "Heaven’s Ascent",
+      "level": 1
+    },
+    {
+      "move": "Invisible Fake",
+      "level": 19
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 24
+    },
+    {
+      "move": "Racing Flame",
+      "level": 37
+    }
+  ],
+  "Ekadel": [
+    {
+      "move": "Angel Ball",
+      "level": 1
+    },
+    {
+      "move": "Snow Angel",
+      "level": 26
+    },
+    {
+      "move": "Heavenly Drive",
+      "level": 29
+    },
+    {
+      "move": "Land Of Ice",
+      "level": 33
+    }
+  ],
+  "Lephiel": [
+    {
+      "move": "Heaven’s Ascent",
+      "level": 1
+    },
+    {
+      "move": "Gladius Arch",
+      "level": 29
+    },
+    {
+      "move": "Echo Ball",
+      "level": 31
+    },
+    {
+      "move": "Celestial Zone",
+      "level": 35
+    }
+  ],
+  "Sachinel": [
+    {
+      "move": "Angel Ball",
+      "level": 1
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 37
+    },
+    {
+      "move": "Excalibur",
+      "level": 28
+    },
+    {
+      "move": "Everyone Move It!",
+      "level": 32
+    }
+  ],
+  "Wenel": [
+    {
+      "move": "Angel Ball",
+      "level": 1
+    },
+    {
+      "move": "Heaven’s Time",
+      "level": 37
+    },
+    {
+      "move": "Snow Angel",
+      "level": 25
+    },
+    {
+      "move": "The Ikaros",
+      "level": 30
+    }
+  ],
+  "Nuel": [
+    {
+      "move": "Angel Ball",
+      "level": 1
+    },
+    {
+      "move": "Racing Flame",
+      "level": 1
+    },
+    {
+      "move": "Double Jaw",
+      "level": 30
+    },
+    {
+      "move": "Echo Ball",
+      "level": 34
+    }
+  ],
+  "Ientel": [
+    {
+      "move": "Heaven’s Ascent",
+      "level": 1
+    },
+    {
+      "move": "Angel Ball",
+      "level": 25
+    },
+    {
+      "move": "Sleeping Dust",
+      "level": 37
+    },
+    {
+      "move": "Odin Sword",
+      "level": 34
+    }
+  ],
+  "Gaiel": [
+    {
+      "move": "Heavenly Drive",
+      "level": 1
+    },
+    {
+      "move": "The Ikaros",
+      "level": 1
+    },
+    {
+      "move": "Prima Donna",
+      "level": 21
+    },
+    {
+      "move": "Gungnir",
+      "level": 30
+    }
+  ],
+  "Sanctus": [
+    {
+      "move": "Heavenly Drive",
+      "level": 1
+    },
+    {
+      "move": "Excalibur",
+      "level": 37
+    },
+    {
+      "move": "Ultra Moon",
+      "level": 30
+    },
+    {
+      "move": "Shadow Ray(E)",
+      "level": 30
+    }
+  ],
+  "Astaroth": [
+    {
+      "move": "The End",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough 3",
+      "level": 1
+    },
+    {
+      "move": "Giant Spider",
+      "level": 37
+    },
+    {
+      "move": "Comeback Kid",
+      "level": 31
+    }
+  ],
+  "Bael": [
+    {
+      "move": "Hell’s Descent",
+      "level": 1
+    },
+    {
+      "move": "Dark Whirlwind",
+      "level": 1
+    },
+    {
+      "move": "Gravitation",
+      "level": 36
+    },
+    {
+      "move": "Trickery!",
+      "level": 27
+    }
+  ],
+  "Abigor": [
+    {
+      "move": "Devil Ball",
+      "level": 1
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 18
+    },
+    {
+      "move": "Field of Force",
+      "level": 36
+    },
+    {
+      "move": "The End",
+      "level": 29
+    }
+  ],
+  "Behemoth": [
+    {
+      "move": "Hell’s Descent",
+      "level": 1
+    },
+    {
+      "move": "Gravitation",
+      "level": 18
+    },
+    {
+      "move": "Bewilder Blast",
+      "level": 23
+    },
+    {
+      "move": "Barbarian Shield",
+      "level": 28
+    }
+  ],
+  "Belial": [
+    {
+      "move": "Hell’s Descent",
+      "level": 1
+    },
+    {
+      "move": "Dark Matter",
+      "level": 21
+    },
+    {
+      "move": "Heavy Mettle",
+      "level": 36
+    },
+    {
+      "move": "Defence Plus",
+      "level": 35
+    }
+  ],
+  "Malphas": [
+    {
+      "move": "Devil Ball",
+      "level": 1
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 24
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 36
+    },
+    {
+      "move": "Offence Force",
+      "level": 36
+    }
+  ],
+  "Glasya": [
+    {
+      "move": "Devil Ball",
+      "level": 1
+    },
+    {
+      "move": "Barbarian Shield",
+      "level": 20
+    },
+    {
+      "move": "Hellfire",
+      "level": 25
+    },
+    {
+      "move": "Bewilder Blast",
+      "level": 36
+    }
+  ],
+  "Jezebeth": [
+    {
+      "move": "Hell’s Descent",
+      "level": 1
+    },
+    {
+      "move": "Breakthrough 2",
+      "level": 13
+    },
+    {
+      "move": "Sleeping Dust",
+      "level": 36
+    },
+    {
+      "move": "Trickery!",
+      "level": 28
+    }
+  ],
+  "Arachne": [
+    {
+      "move": "Devil Ball",
+      "level": 1
+    },
+    {
+      "move": "Sleeping Dust",
+      "level": 1
+    },
+    {
+      "move": "Grand Fire",
+      "level": 36
+    },
+    {
+      "move": "Diabolical Cut",
+      "level": 29
+    }
+  ],
+  "Thanatos": [
+    {
+      "move": "Dark Matter",
+      "level": 1
+    },
+    {
+      "move": "Barbarian Shield",
+      "level": 18
+    },
+    {
+      "move": "Dark Whirlwind",
+      "level": 21
+    },
+    {
+      "move": "Dark Phoenix",
+      "level": 30
+    }
+  ],
+  "Destra": [
+    {
+      "move": "Dark Matter",
+      "level": 1
+    },
+    {
+      "move": "Hellfire",
+      "level": 37
+    },
+    {
+      "move": "Gravitation",
+      "level": 16
+    },
+    {
+      "move": "Shadow Ray(W)",
+      "level": 30
+    }
+  ]
+}

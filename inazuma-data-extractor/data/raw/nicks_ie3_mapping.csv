@@ -1,0 +1,265 @@
+team,export_nick,export_name,juego_nick,juego_full,hex,stat_dist,score,changed,ok
+inazuma-japan,Mark,Mark Evans,Mark,Mark Evans,0x1,0,-50,False,True
+inazuma-japan,Darren,Darren LaChance,LaChance,Darren LaChance,0x94D,0,-50,True,True
+inazuma-japan,Jack,Jack Wallside,Jack,Jack Wallside,0x3,0,-50,False,True
+inazuma-japan,Banyan,Scott Banyan,Banyan,Scott Banyan,0x930,0,-50,False,True
+inazuma-japan,Hawkins,Archer Hawkins,Hawkins,Archer Hawkins,0xBBA,0,-50,False,True
+inazuma-japan,Tod,Tod Ironside,Tod,Tod Ironside,0x5,0,-50,False,True
+inazuma-japan,Nathan,Nathan Swift,Nathan,Nathan Swift,0x2,0,-50,False,True
+inazuma-japan,Kane,Hurley Kane,Kane,Hurley Kane,0x964,0,-50,False,True
+inazuma-japan,St’berg,Thor Stoutberg,St’berg,Thor Stoutberg,0x9A8,0,-50,False,True
+inazuma-japan,Jordan,Jordan Greenway,Jordan,Jordan Greenway,0xBBE,0,-50,False,True
+inazuma-japan,Stonew’l,Caleb Stonewall,Stonew’l,Caleb Stonewall,0xBBD,0,-50,False,True
+inazuma-japan,Jude,Jude Sharp,Jude,Jude Sharp,0x1E,0,-50,False,True
+inazuma-japan,Samford,David Samford,Samford,David Samford,0x1F,0,-50,False,True
+inazuma-japan,Froste,Shawn Froste,Froste,Shawn Froste,0x922,0,-50,False,True
+inazuma-japan,Xavier,Xavier Foster,Xavier,Xavier Foster,0xBBC,0,-50,False,True
+inazuma-japan,Kevin,Kevin Dragonfly,Kevin,Kevin Dragonfly,0xB,0,-50,False,True
+inazuma-japan,Hobbes,Austin Hobbes,Hobbes,Austin Hobbes,0xBB9,0,-50,False,True
+inazuma-japan,Axel,Axel Blaze,Axel,Axel Blaze,0xA,0,-50,False,True
+big-waves,Jinbei,Jinbei,Whale,Gene Whalon,0xBCD,0,0,True,True
+big-waves,Seahorse,Seahorse,C-Horse,Quincy Horace,0xBD8,0,0,True,True
+big-waves,Barracuda,Barracuda,Barracu.,Barack Daniels,0xBDB,0,-15,True,True
+big-waves,Beach,Beach,Beaches,Sonny Shore,0xBCF,0,-15,True,True
+big-waves,Water,Water,Water,David Waterman,0xBCE,0,-50,False,True
+big-waves,Turtle,Turtle,Turtle,Kjell Snapper,0xBD0,0,-50,False,True
+big-waves,Kraken,Kraken,Kraken,Ken Crackham,0xBD1,0,-50,False,True
+big-waves,Dolphin,Dolphin,Dolphin,Dolph Hensen,0xBD5,0,-50,False,True
+big-waves,Shrimp,Shrimp,Prawn,Shawn Princeton,0xBD2,0,0,True,True
+big-waves,Crab,Crab,K-Rab,Derek Rabson,0xBDA,0,0,True,True
+big-waves,Surfing,Surfing,Hang-Ten,Hank Tennyson,0xBD4,0,0,True,True
+big-waves,Angler,Angler,Fisher,Matt Fischer,0xBD3,0,0,True,True
+big-waves,Summer,Summer,Summers,Holly Summers,0xBD9,0,-15,True,True
+big-waves,Reef,Reef,Reef,Hamilton Reith,0xBD6,0,-50,False,True
+big-waves,Jaws,Jaws,Jaws,Joe Dawes,0xBD7,0,-50,False,True
+big-waves,Merlin,Merlin,Marlin,Bruce Marlin,0xBDC,0,0,True,True
+desert-lion,Nasser,Nasser,Mustafa,Nasir Mustafa,0xBE1,0,0,True,True
+desert-lion,Talal,Talal,Hamad,Talal Hamad,0xBEC,0,-30,True,True
+desert-lion,Bjorn,Bjorn,Kalil,Bilal Kalil,0xBE3,0,0,True,True
+desert-lion,Jamel,Jamel,Wali,Jamila Wali,0xBE4,0,0,True,True
+desert-lion,Fual,Fual,Farooq,Faraz Farooq,0xBE2,0,0,True,True
+desert-lion,Musa,Musa,Sylla,Musa Sylla,0xBE5,0,-30,True,True
+desert-lion,Hassan,Hassan,Ahmed,Hasan Ahmed,0xBED,0,0,True,True
+desert-lion,Khalfan,Khalfan,Jibril,Khalfan Jibril,0xBEE,0,-30,True,True
+desert-lion,Seid,Seid,Armand,Sayid Armand,0xBE8,0,0,True,True
+desert-lion,Sly,Sly,Sulaiman,Sulayk Sulaiman,0xBE7,0,0,True,True
+desert-lion,Messa,Messa,Jasim,Mansur Jasim,0xBE9,0,0,True,True
+desert-lion,Yusuf,Yusuf,Massoud,Yusuf Massoud,0xBE6,0,-30,True,True
+desert-lion,Rajab,Rajab,Rajab,Rajab Ismail,0xBEF,0,-50,False,True
+desert-lion,Zach,Zach,Abdulla,Zack Abdulla,0xBEA,0,0,True,True
+desert-lion,Adele,Adele,Siddique,Adel Siddique,0xBF0,0,0,True,True
+desert-lion,Majidi,Majidi,Majdi,Majdi Ismail,0xBEB,0,0,True,True
+fire-dragon,Jung-Soo,Jung-Soo,Jeongsu,Jeongsu Cho,0xBF5,0,0,True,True
+fire-dragon,Ji-Nan,Ji-Nan,Ho,Chi-Won Ho,0xC00,0,0,True,True
+fire-dragon,Eum-Yang,Eum-Yang,Hwang,Umi Hwang,0xBF6,0,0,True,True
+fire-dragon,Doo-Yoon,Doo-Yoon,Hong,Dooyoon Hong,0xBF7,0,-30,True,True
+fire-dragon,Myong-Ho,Myong-Ho,Minho,Minho Cho,0xBF8,0,0,True,True
+fire-dragon,Seong-Hwan,Seong-Hwan,Ko,Songhwan Ko,0xBF9,0,0,True,True
+fire-dragon,Hyeon-Dae,Hyeon-Dae,Seul,Dong-Hyun Seul,0xC01,0,0,True,True
+fire-dragon,Chang-Soo,Chang-Soo,Choi,Changsu Choi,0xBFE,0,0,True,True
+fire-dragon,Pek-Young,Pek-Young,Park,Paekyeong Park,0xBFA,0,0,True,True
+fire-dragon,Eun-Young,Eun-Young,Kim,Eunyeong Kim,0xBFC,0,0,True,True
+fire-dragon,Jeong-Yun,Jeong-Yun,Yi,Jung-Hoon Yi,0xC02,0,0,True,True
+fire-dragon,Jeong-Won,Jeong-Won,Ja,Joon-Ho Ja,0xC04,0,0,True,True
+fire-dragon,Aphrodi,Aphrodi,Aphrodi.,Byron Love,0xBFB,0,-50,True,True
+fire-dragon,Burn,Burn,Torch,Claude Beacons,0xBFD,0,0,True,True
+fire-dragon,Gazel,Gazel,Gazelle,Bryce Whitingale,0xBFF,0,-15,True,True
+fire-dragon,Seong-Jun,Seong-Jun,Noh,Sung-Jin Noh,0xC03,0,0,True,True
+knights-of-queen,Freddy,Freddy,McQueen,Freddy McQueen,0xC09,0,-30,True,True
+knights-of-queen,Gareth,Gareth,Jeeves,Servilius Jeeves,0xC14,0,0,True,True
+knights-of-queen,Johnny G,Johnny G,Gazzer,Jonny Gascoigne,0xC0A,0,0,True,True
+knights-of-queen,David,David,Bucking.,David Buckingham,0xC0B,0,-30,True,True
+knights-of-queen,Lance,Lance,Rawton,Lance Rawton,0xC0C,0,-30,True,True
+knights-of-queen,Edge,Edge,Ripper,Edge Ripper,0xC0D,0,-30,True,True
+knights-of-queen,Martin,Martin,Squall,Martin Squall,0xC15,0,-30,True,True
+knights-of-queen,Peter,Peter,Cole,Peter Cole,0xC0E,0,-30,True,True
+knights-of-queen,Gary,Gary,Mane,Gary Mane,0xC0F,0,-30,True,True
+knights-of-queen,Paul,Paul,Appleton,Paul Appleton,0xC10,0,-30,True,True
+knights-of-queen,Eric,Eric,Purplet.,Eric Purpleton,0xC11,0,-30,True,True
+knights-of-queen,Beat,Beat,Pounding,Sirius Pounding,0xC18,0,0,True,True
+knights-of-queen,Mikey,Mikey,Richards,Mikey Richards,0xC17,0,-30,True,True
+knights-of-queen,Edgar,Edgar,Partinus,Edgar Partinus,0xC12,0,-30,True,True
+knights-of-queen,Philip,Philip,Owen,Phillip Owen,0xC13,0,0,True,True
+knights-of-queen,Nick,Nick,Woodgate,Nick Woodgate,0xC16,0,-30,True,True
+the-empire,Jorge,Jorge,Ortega,Jorge Ortega,0xC31,0,-30,True,True
+the-empire,Lionel,Lionel,Cruz,Lionel Cruz,0xC3C,0,-30,True,True
+the-empire,Therese,Therese,Thiago,Thiago Torres,0xC32,0,0,True,True
+the-empire,Julio,Julio,Acosta,Julio Acosta,0xC33,0,-30,True,True
+the-empire,Gordo,Gordo,Dｾaz,Grande Dｾaz,0xC34,0,0,True,True
+the-empire,Ramon,Ramon,Martｾnez,Ramﾄn Martｾnez,0xC35,0,0,True,True
+the-empire,Hernan,Hernan,Tｺvez,Hernｲn Tｺvez,0xC3E,0,0,True,True
+the-empire,Esteban,Esteban,Carlos,Esteban Carlos,0xC36,0,-30,True,True
+the-empire,Sergio,Sergio,Pｺrez,Sergio Pｺrez,0xC37,0,-30,True,True
+the-empire,Roberto,Roberto,Roberto,Roberto Torres,0xC38,0,-50,False,True
+the-empire,Pablo,Pablo,Castillo,Pablo Castillo,0xC39,0,-30,True,True
+the-empire,Herman,Herman,Samuel,Herman Samuel,0xC3F,0,-30,True,True
+the-empire,Leone,Leone,Badigo,Leone Badigo,0xC3A,0,-30,True,True
+the-empire,Diego,Diego,Oro,Diego Oro,0xC3B,0,-30,True,True
+the-empire,Mario,Mario,Saviola,Mario Saviola,0xC3D,0,-30,True,True
+the-empire,Ricardo,Ricardo,Agﾌero,Ricardo Agﾌero,0xC40,0,-30,True,True
+unicorn,Kid,Kid,Dash,Billy Dash,0xC45,0,0,True,True
+unicorn,Alex,Alex,Hawke,Alex Hawke,0xC50,0,-30,True,True
+unicorn,Ted,Ted,Bryant,Ted Bryant,0xC46,0,-30,True,True
+unicorn,Tony,Tony,Strider,Tony Strider,0xC47,0,-30,True,True
+unicorn,Dyke,Dyke,Dynamo,Drake Dynamo,0xC48,0,0,True,True
+unicorn,Domon,Domon,Bobby,Bobby Shearer,0xC49,0,0,True,True
+unicorn,Rob,Rob,Washing.,Corey Washington,0xC51,0,0,True,True
+unicorn,Bob,Bob,The Slob,Bob Bobbins,0xC52,0,-30,True,True
+unicorn,Steve,Steve,Woodmark,Steve Woodmark,0xC4A,0,-30,True,True
+unicorn,Ichinose,Ichinose,Erik,Erik Eagle,0xC4B,0,0,True,True
+unicorn,Sean,Sean,Pierce,Shane Pierce,0xC4C,0,0,True,True
+unicorn,Mark,Mark,Krueger,Mark Krueger,0xC4D,0,-30,True,True
+unicorn,Sammy,Sammy,Pooma,Petie Pooma,0xC53,0,0,True,True
+unicorn,Dylan,Dylan,Keats,Dylan Keats,0xC4E,0,-30,True,True
+unicorn,Michele,Michele,Jax,Gabriel Jax,0xC4F,0,0,True,True
+unicorn,Eddie,Eddie,Dexter,Norbert Poindexter,0xC54,0,0,True,True
+orpheus,Blasi,Blasi,Blasi,Gigi Blasi,0xC59,0,-50,False,True
+orpheus,Daniele,Daniele,Sanctis,Daniele Sanctis,0xC64,0,-30,True,True
+orpheus,Vento,Vento,Galliano,Vento Galliano,0xC5A,0,-30,True,True
+orpheus,Ottorino,Ottorino,Nobili,Ottorino Nobili,0xC5B,0,-30,True,True
+orpheus,Gattuso,Gattuso,Graziuso,Anton Graziuso,0xC5C,0,0,True,True
+orpheus,Marco,Marco,Maserati,Marco Maserati,0xC5D,0,-30,True,True
+orpheus,Giuseppe,Giuseppe,Cannav.,Giuseppe Cannavaro,0xC67,0,-30,True,True
+orpheus,Angelo,Angelo,Gabrini,Angelo Gabrini,0xC5E,0,-30,True,True
+orpheus,Giorgio,Giorgio,Giorgio,Giorgio Giannini,0xC60,0,-50,False,True
+orpheus,Dante,Dante,Diavolo,Dante Diavolo,0xC61,0,-30,True,True
+orpheus,Gianluca,Gianluca,Zanardi,Gianluca Zanardi,0xC5F,0,-30,True,True
+orpheus,Enrico,Enrico,Oliviero,Enrico Oliviero,0xC65,0,-30,True,True
+orpheus,Alessandro,Alessandro,Rossa,Alessandro Rossa,0xC66,0,-30,True,True
+orpheus,Hide Nakata,Hide Nakata,Nakata,Hidetoshi Nakata,0x9AC,0,0,True,True
+orpheus,Fidio,Fidio,Bianchi,Paolo Bianchi,0xC62,0,0,True,True
+orpheus,Raffaele,Raffaele,Generani,Raffaele Generani,0xC63,0,-30,True,True
+os-reis,Falcao,Falcao,da Silva,Falcｨo Da Silva,0xC6D,0,0,True,True
+os-reis,Javali,Javali,Ribeiro,Xavier Ribeiro,0xC78,0,0,True,True
+os-reis,Lagarto,Lagarto,Lagarto,Carlos Lagarto,0xC6E,0,-50,False,True
+os-reis,Bagre,Bagre,Bagre,Antonio Bagre,0xC6F,0,-50,False,True
+os-reis,Monstro,Monstro,Monstro,Monstro Ximenes,0xC70,0,-50,False,True
+os-reis,Formiga,Formiga,Clemens,Formiga Clemens,0xC71,0,-30,True,True
+os-reis,Urso,Urso,Nogueira,Ulisses Nogueira,0xC79,0,0,True,True
+os-reis,Cavalo,Cavalo,Oliveira,Gervasio Oliveira,0xC7A,0,0,True,True
+os-reis,Presa,Presa,Passos,Presa Passos,0xC72,0,-30,True,True
+os-reis,Borboleta,Borboleta,Barboza,Borboleta Barboza,0xC73,0,-30,True,True
+os-reis,Coruja,Coruja,Cerezo,Coruja Cerezo,0xC74,0,-30,True,True
+os-reis,Leonardo,Leonardo,Almeida,Leonardo Almeida,0xC75,0,-30,True,True
+os-reis,Tigre,Tigre,Mendes,Tigre Mendes,0xC7B,0,-30,True,True
+os-reis,Roniejo,Roniejo,Robingo,Mac Robingo,0xC76,0,0,True,True
+os-reis,Gato,Gato,Gato,Gato Carvalho,0xC77,0,-50,False,True
+os-reis,Grilo,Grilo,Santos,Grillo Santos,0xC7C,0,0,True,True
+little-gigant,Rococo,Rococo,Helio,Hector Helio,0xC95,0,0,True,True
+little-gigant,Kane,Kane,Keenan,Keenan DiFortune,0xCA0,0,0,True,True
+little-gigant,Windy,Windy,Vitesse,Zephyr Vitesse,0xC96,0,0,True,True
+little-gigant,Walter,Walter,Mountain,Walter Mountain,0xC97,0,-30,True,True
+little-gigant,Ginny,Ginny,Gaines,Jimi Gaines,0xC98,0,0,True,True
+little-gigant,Marron,Marron,Ferrum,Ian Ferrum,0xC99,0,0,True,True
+little-gigant,McCall,McCall,Mangrove,Jarell Mangrove,0xCA1,0,0,True,True
+little-gigant,Shintei,Shintei,Hampton,Quint Hampton,0xC9A,0,0,True,True
+little-gigant,Yumu,Yumu,Haddad,Yasir Haddad,0xC9B,0,0,True,True
+little-gigant,Kito,Kito,Ryan,Keith Ryan,0xC9C,0,0,True,True
+little-gigant,Maxi,Maxi,Maximino,Maximino Cruz,0xC9D,0,-15,True,True
+little-gigant,Maygar,Maygar,Vitrum,Vic Vitrum,0xCA2,0,0,True,True
+little-gigant,Ryuu,Ryuu,Leung,Li Leung,0xCA3,0,0,True,True
+little-gigant,Squid,Squid,Hedgeer,Jazzy Hedgeer,0xCA4,0,0,True,True
+little-gigant,Goushu,Goushu,Flare,Gareth Flare,0xC9E,0,0,True,True
+little-gigant,Drago,Drago,Drago,Drago Hill,0xC9F,0,-50,False,True
+team-k,Indigo,Indigo,Lazuli,Indigo Lazuli,0xC1D,0,-30,True,True
+team-k,Grigio,Grigio,Quarzo,Grigio Quarzo,0xC28,0,-30,True,True
+team-k,Roseo,Roseo,Diamante,Roseo Diamante,0xC1E,0,-30,True,True
+team-k,Azbel,Azbel,Turchese,Azubel Turchese,0xC1F,0,0,True,True
+team-k,Nero,Nero,Agata,Nello Agata,0xC20,0,0,True,True
+team-k,Azzurro,Azzurro,Zaffiro,Azzurro Zaffiro,0xC21,0,-30,True,True
+team-k,Pardo,Pardo,Berillo,Pardo Berillo,0xC29,0,-30,True,True
+team-k,Verdio,Verdio,Smeraldo,Beldio Smeraldo,0xC22,0,0,True,True
+team-k,Rosso,Rosso,Granato,Rosso Granato,0xC23,0,-30,True,True
+team-k,Giallo,Giallo,Topazio,Giallo Topazio,0xC24,0,-30,True,True
+team-k,Marrone,Marrone,Corniola,Marrone Corniola,0xC2A,0,-30,True,True
+team-k,Amaranto,Amaranto,Rubino,Amaranto Rubino,0xC2B,0,-30,True,True
+team-k,Demonio,Demonio,Acuto,Giulio Acuto,0xC26,0,0,True,True
+team-k,Violette,Violette,Ametista,Violetto Ametista,0xC27,0,0,True,True
+team-k,Bianco,Bianco,Perla,Bianco Perla,0xC25,0,-30,True,True
+team-k,Lattimo,Lattimo,Opale,Avorio Opale,0xC2C,0,0,True,True
+team-garshield,Fox,Fox,Civet,Cyril Fox,0xC81,0,-30,True,True
+team-garshield,Goliath,Goliath,Bear,Grizzler Bruin,0xC8C,0,0,True,True
+team-garshield,Jackal,Jackal,Jackal,Jacques Allemand,0xC82,0,-50,False,True
+team-garshield,Henktacker,Henktacker,Minion,Phil A. Minion,0xC83,0,0,True,True
+team-garshield,Buffalo,Buffalo,Buffalo,Buddy Plains,0xC84,0,-50,False,True
+team-garshield,Dingo,Dingo,Dingo,Dean Goddard,0xC85,0,-50,False,True
+team-garshield,Spider,Spider,Spider,Ian C. Wincy,0xC8D,0,-50,False,True
+team-garshield,Papillon,Papillon,B’fly,Chris Ellis,0xC90,0,0,True,True
+team-garshield,Owl,Owl,Owl,Cecil Crowley,0xC86,0,-50,False,True
+team-garshield,Hedge,Hedge,Hedgehog,Seth Hedges,0xC87,0,-15,True,True
+team-garshield,Mantis,Mantis,Mantis,Niccolo Mantegna,0xC88,0,-50,False,True
+team-garshield,Crow,Crow,Crow,Damien Crawford,0xC89,0,-50,False,True
+team-garshield,Giraffe,Giraffe,Zebra,Bandy Horsman,0xC8E,0,0,True,True
+team-garshield,Coyote,Coyote,Coyote,Avinash Chowdhury,0xC8A,0,-50,False,True
+team-garshield,Scorpio,Scorpio,Scorpio,Sedgley Scofield,0xC8B,0,-50,False,True
+team-garshield,Gavial,Gavial,Gator,Ali Caiman,0xC8F,0,0,True,True
+red-matador,Fermín,Fermín,Sｲnchez,Fermｾn Sｲnchez,0xCBD,0,0,True,True
+red-matador,Juan,Juan,Espind.,Juan Espindola,0xCC8,0,-30,True,True
+red-matador,Queraldo,Queraldo,Naval,Queraldo Naval,0xCC1,0,-30,True,True
+red-matador,José,José,Costa,Josｺ Costa,0xCBE,0,0,True,True
+red-matador,Rafael,Rafael,Lﾄpez,Rafael Lﾄpez,0xCBF,0,-30,True,True
+red-matador,Antonio,Antonio,Gallego,Antonio Gallego,0xCC0,0,-30,True,True
+red-matador,Laudi,Laudi,Castor,Laudelino Castor,0xCCA,0,0,True,True
+red-matador,Joan,Joan,Nadal,Juan Nadal,0xCC2,0,0,True,True
+red-matador,Igor,Igor,Ferreira,Igor Ferreira,0xCC3,0,-30,True,True
+red-matador,Miquel,Miquel,Pereira,Miguel Pereira,0xCC5,0,0,True,True
+red-matador,Pedro,Pedro,Moreno,Pedro Moreno,0xCC4,0,-30,True,True
+red-matador,Carlos,Carlos,Arroyo,Carlos Arroyo,0xCCB,0,-30,True,True
+red-matador,Samuel,Samuel,Mayo,Samuel Mayo,0xCC6,0,-30,True,True
+red-matador,David,David,Peroquｺ,Davi Peroquｺ,0xCC7,0,0,True,True
+red-matador,Isaac,Isaac,Cｺsar,Isaac Cｺsar,0xCC9,0,-30,True,True
+red-matador,Federico,Federico,Rubiera,Federico Rubiera,0xCCC,0,-30,True,True
+rose-griffon,Ladji,Ladji,Pialat,Roger Pialat,0xCA9,0,0,True,True
+rose-griffon,Émile,Émile,Lazare,ﾙmile Lazare,0xCB4,0,0,True,True
+rose-griffon,Pierre,Pierre,Godin,Pierre Godin,0xCAD,0,-30,True,True
+rose-griffon,Miguel,Miguel,Aron,Michaｼl Aron,0xCAB,0,0,True,True
+rose-griffon,Frantz,Frantz,Poujol,Francis Poujol,0xCAC,0,0,True,True
+rose-griffon,Kevin,Kevin,Pinot,Kevin Pinot,0xCAA,0,-30,True,True
+rose-griffon,André,André,Pinson,Andrｺ Pinson,0xCB5,0,0,True,True
+rose-griffon,Jean,Jean,Gutain,Jean Gutain,0xCB6,0,-30,True,True
+rose-griffon,Laurent,Laurent,Pｺrec,Roland Pｺrec,0xCAE,0,0,True,True
+rose-griffon,Ronnie,Ronnie,Huysmans,Romuald Huysmans,0xCB1,0,0,True,True
+rose-griffon,Stéphane,Stéphane,Hinault,Stｺphane Hinault,0xCB0,0,0,True,True
+rose-griffon,Julien,Julien,Rousseau,Julien Rousseau,0xCAF,0,-30,True,True
+rose-griffon,Claude,Claude,Moreau,Claude Moreau,0xCB7,0,-30,True,True
+rose-griffon,Jérôme,Jérôme,Hervaud,Jｺrﾅme Hervaud,0xCB2,0,0,True,True
+rose-griffon,Alain,Alain,Favreau,Alain Favreau,0xCB3,0,-30,True,True
+rose-griffon,Michel,Michel,Morland,Michel Morland,0xCB8,0,-30,True,True
+the-great-horn,Zolani,Zolani,Baloi,Zolani Baloi,0xCE5,0,-30,True,True
+the-great-horn,Hiyuu,Hiyuu,Makebe,Hugh Makebe,0xCF3,0,0,True,True
+the-great-horn,Dinga,Dinga,Furman,Dakarai Furman,0xCE6,0,0,True,True
+the-great-horn,Jake,Jake,Fana,Jake Fana,0xCE7,0,-30,True,True
+the-great-horn,Muzonge,Muzonge,Molelo,Masego Molelo,0xCE8,0,0,True,True
+the-great-horn,Caxias,Caxias,Tobler,Cassius Tobler,0xCE9,0,0,True,True
+the-great-horn,Mubulelo,Mubulelo,Booysen,Moeneeb Booysen,0xCF1,0,0,True,True
+the-great-horn,Kenede,Kenede,McCarthy,Kennedy McCarthy,0xCF2,0,0,True,True
+the-great-horn,Abari,Abari,Marunga,Adam Marunga,0xCEB,0,0,True,True
+the-great-horn,Athol,Athol,Nortje,Anton Nortje,0xCEA,0,0,True,True
+the-great-horn,Reggie,Reggie,Ines,Reggie Ines,0xCEC,0,-30,True,True
+the-great-horn,Sulani,Sulani,Mahlangu,Siyabonga Mahlangu,0xCED,0,0,True,True
+the-great-horn,Tenba,Tenba,Sepeng,Themba Sepeng,0xCF4,0,0,True,True
+the-great-horn,Natal,Natal,Tswane,Nathan Tswane,0xCEE,0,0,True,True
+the-great-horn,Mulamuli,Mulamuli,Zamani,Melisizwe Zamani,0xCEF,0,0,True,True
+the-great-horn,Ezeckiel,Ezeckiel,De Vill.,Herschel De Villiers,0xCF0,0,0,True,True
+tenkuu-no-shito,Enolel,Enolel,Anorel,Anorel,0xD49,0,0,True,True
+tenkuu-no-shito,Nanael,Nanael,Nenel,Nenel,0xD4A,0,0,True,True
+tenkuu-no-shito,Genel,Genel,Genel,Genel,0xD4B,0,-50,False,True
+tenkuu-no-shito,Ekadel,Ekadel,Ekadel,Ekadel,0xD4C,0,-50,False,True
+tenkuu-no-shito,Elfel,Elfel,Lephiel,Lephiel,0xD4D,0,0,True,True
+tenkuu-no-shito,Sakinel,Sakinel,Sachinel,Sachinel,0xD4E,0,0,True,True
+tenkuu-no-shito,Winel,Winel,Wenel,Wenel,0xD4F,0,0,True,True
+tenkuu-no-shito,Enuel,Enuel,Nuel,Nuel,0xD51,0,0,True,True
+tenkuu-no-shito,Aiel,Aiel,Ientel,Ientel,0xD50,0,0,True,True
+tenkuu-no-shito,Guel,Guel,Gaiel,Gaiel,0xD52,0,0,True,True
+tenkuu-no-shito,Sein,Sein,Sanctus,Sanctus,0xD53,0,0,True,True
+makai-gundan-z,Astaroth,Astaroth,Astaroth,Astaroth,0xD5D,0,-50,False,True
+makai-gundan-z,Beelzebub,Beelzebub,Bael,Bael,0xD5E,0,0,True,True
+makai-gundan-z,Abigor,Abigor,Abigor,Abigor,0xD5F,0,-50,False,True
+makai-gundan-z,Hebimoth,Hebimoth,Behemoth,Behemoth,0xD60,0,0,True,True
+makai-gundan-z,Belial,Belial,Belial,Belial,0xD61,0,-50,False,True
+makai-gundan-z,Mephisto,Mephisto,Malphas,Malphas,0xD62,0,0,True,True
+makai-gundan-z,Glasya,Glasya,Glasya,Glasya,0xD63,0,-50,False,True
+makai-gundan-z,Barbatos,Barbatos,Jezebeth,Jezebeth,0xD64,0,0,True,True
+makai-gundan-z,Arachnes,Arachnes,Arachne,Arachne,0xD65,0,-15,True,True
+makai-gundan-z,Satanathos,Satanathos,Thanatos,Thanatos,0xD66,0,0,True,True
+makai-gundan-z,Desta,Desta,Destra,Destra,0xD67,0,0,True,True
