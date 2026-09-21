@@ -13,6 +13,8 @@
 
 Bienvenido al repositorio de **Scripts de Datos**, una herramienta backend complementaria dentro del ecosistema de **Inazuma Eleven Endavant**. 
 
+> 📚 **Documentación del Proyecto:** Visita la [web oficial de documentación](https://inazuma-docs.vercel.app/) para descubrir todos los detalles del proyecto al completo.
+
 Mientras que la plataforma web principal gestiona la economía, el progreso RPG y los partidos de chapas, este repositorio contiene los scripts encargados de extraer, procesar y normalizar toda la inmensa base de datos del juego (estadísticas, movimientos, rostros) desde diversas fuentes, dejándola lista para alimentar el motor del torneo.
 
 ---
